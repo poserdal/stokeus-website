@@ -1,43 +1,67 @@
-# Astro Starter Kit: Minimal
+# Stoke - Marketing Website
 
-```sh
-npm create astro@latest -- --template minimal
+Coming soon page for stokeus.com
+
+## Development
+
+```bash
+# Install dependencies
+npm install
+
+# Start dev server
+npm run dev
+
+# Build for production
+npm run build
+
+# Preview production build
+npm run preview
 ```
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+## Deployment to GitHub Pages
 
-## 🚀 Project Structure
+1. Create a new repository on GitHub named `stokeus-website`
+2. Initialize and push this code:
 
-Inside of your Astro project, you'll see the following folders and files:
+```bash
+git remote add origin https://github.com/<your-username>/stokeus-website.git
+git branch -M main
+git add .
+git commit -m "Initial commit: Coming soon page"
+git push -u origin main
+```
 
-```text
+3. Enable GitHub Pages:
+   - Go to repository Settings → Pages
+   - Under "Source", select "GitHub Actions"
+   - The site will automatically deploy on every push to main
+
+4. Configure custom domain (optional):
+   - In Settings → Pages → Custom domain, enter: `stokeus.com`
+   - Configure DNS with your domain registrar:
+     - Add A records pointing to GitHub Pages IPs:
+       - 185.199.108.153
+       - 185.199.109.153
+       - 185.199.110.153
+       - 185.199.111.153
+     - Or add a CNAME record pointing to `<your-username>.github.io`
+
+## Tech Stack
+
+- [Astro](https://astro.build) - Static site generator
+- TypeScript - Type safety
+- GitHub Pages - Free hosting with automatic deployment
+
+## Project Structure
+
+```
 /
-├── public/
+├── public/          # Static assets
 ├── src/
-│   └── pages/
+│   └── pages/       # Pages and routes
 │       └── index.astro
+├── .github/
+│   └── workflows/
+│       └── deploy.yml  # GitHub Actions deployment
 └── package.json
 ```
-
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
-
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
-
-Any static assets, like images, can be placed in the `public/` directory.
-
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
-
-## 👀 Want to learn more?
-
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
