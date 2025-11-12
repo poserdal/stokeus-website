@@ -41,13 +41,21 @@
 				color: #666666;
 				margin-bottom: 2rem;
 				font-size: 0.9rem;
+				font-weight: 600;
 			}
 
 			h2 {
 				font-size: 1.5rem;
 				font-weight: 600;
-				margin-top: 2rem;
+				margin-top: 2.5rem;
 				margin-bottom: 1rem;
+			}
+
+			h3 {
+				font-size: 1.2rem;
+				font-weight: 600;
+				margin-top: 1.5rem;
+				margin-bottom: 0.75rem;
 			}
 
 			p {
@@ -65,6 +73,11 @@
 				color: #333333;
 			}
 
+			strong {
+				font-weight: 600;
+				color: #000000;
+			}
+
 			a {
 				color: #007AFF;
 				text-decoration: none;
@@ -72,6 +85,20 @@
 
 			a:hover {
 				text-decoration: underline;
+			}
+
+			hr {
+				border: none;
+				border-top: 1px solid #e5e5e5;
+				margin: 2rem 0;
+			}
+
+			.notice {
+				background-color: #f5f5f7;
+				border-radius: 8px;
+				padding: 1rem;
+				margin: 1.5rem 0;
+				font-style: italic;
 			}
 
 			@media (max-width: 768px) {
@@ -84,61 +111,268 @@
 				h2 {
 					font-size: 1.25rem;
 				}
+				h3 {
+					font-size: 1.1rem;
+				}
 			}
 		</style>
 	</head>
 	<body>
 		<div class="container">
-			<h1>Privacy Policy</h1>
-			<p class="last-updated">Last updated: November 12, 2024</p>
+			<h1>Privacy Policy for Stoke</h1>
+			<p class="last-updated">Last Updated: January 2025</p>
 
-			<p>At Stoke, we take your privacy seriously. This Privacy Policy explains how we collect, use, and protect your information when you use our mobile application.</p>
+			<h2>1. Introduction</h2>
+			<p>Welcome to Stoke ("we," "our," or "us"). Stoke is a relationship-building app designed for couples to strengthen their connection through daily actions, secure messaging, and personalized insights.</p>
+			<p>This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application. Please read this privacy policy carefully. If you do not agree with the terms of this privacy policy, please do not access the application.</p>
 
-			<h2>Information We Collect</h2>
-			<p>We collect the following types of information:</p>
+			<h2>2. Information We Collect</h2>
+
+			<h3>2.1 Personal Information You Provide</h3>
+
+			<p><strong>Account Information:</strong></p>
 			<ul>
-				<li><strong>Account Information:</strong> When you create an account, we collect your email address and basic profile information.</li>
-				<li><strong>Usage Data:</strong> We collect information about how you interact with the app to improve our services.</li>
-				<li><strong>Relationship Data:</strong> Information you choose to share about your relationship activities and goals.</li>
+				<li>Email address (required for authentication)</li>
+				<li>Full name</li>
+				<li>Profile photo (optional)</li>
+				<li>Connection code (unique 6-character code for partner invitations)</li>
+				<li>Timezone and notification preferences</li>
+				<li>Action reminder time preferences</li>
 			</ul>
 
-			<h2>How We Use Your Information</h2>
+			<p><strong>Relationship Data:</strong></p>
+			<ul>
+				<li>Couple connection information</li>
+				<li>Partner relationship status</li>
+				<li>Relationship assessment survey responses</li>
+				<li>Love language assessment results</li>
+				<li>Relationship scores across five categories: Communication, Intimacy, Trust, Fun, and Support</li>
+			</ul>
+
+			<p><strong>Messages and Communication:</strong></p>
+			<ul>
+				<li>Text messages sent to your partner (end-to-end encrypted)</li>
+				<li>Photos and media shared with your partner (end-to-end encrypted)</li>
+				<li>Message metadata (timestamps, sender information)</li>
+			</ul>
+
+			<p><strong>Activity and Progress Data:</strong></p>
+			<ul>
+				<li>Completed daily and weekly relationship-building actions</li>
+				<li>Skipped actions and skip reasons</li>
+				<li>Custom action descriptions</li>
+				<li>Streak tracking (consecutive weeks of activity)</li>
+				<li>Action completion timeline</li>
+			</ul>
+
+			<p><strong>Survey Responses:</strong></p>
+			<ul>
+				<li>Baseline relationship survey (22 questions across 5 categories)</li>
+				<li>Monthly follow-up surveys</li>
+				<li>Love language rankings and preferences</li>
+				<li>Relationship satisfaction ratings</li>
+			</ul>
+
+			<h3>2.2 Information Collected Automatically</h3>
+
+			<p><strong>Device Information:</strong></p>
+			<ul>
+				<li>Device type and model</li>
+				<li>Operating system version</li>
+				<li>App version</li>
+				<li>Push notification tokens</li>
+				<li>Device identifiers</li>
+			</ul>
+
+			<p><strong>Usage Information:</strong></p>
+			<ul>
+				<li>App interactions and navigation patterns</li>
+				<li>Last active screen and timestamp</li>
+				<li>Feature usage statistics</li>
+				<li>Error logs and crash reports (via Sentry)</li>
+			</ul>
+
+			<h2>3. How We Use Your Information</h2>
 			<p>We use the information we collect to:</p>
 			<ul>
-				<li>Provide and maintain our services</li>
-				<li>Improve and personalize your experience</li>
-				<li>Send you updates and notifications related to your account</li>
-				<li>Analyze usage patterns to improve our app</li>
+				<li><strong>Provide and maintain the Service:</strong> Create and manage your account, enable partner connections, deliver notifications</li>
+				<li><strong>Personalize your experience:</strong> Recommend relevant daily actions based on your love languages and relationship data</li>
+				<li><strong>Enable communication:</strong> Facilitate secure, encrypted messaging between you and your partner</li>
+				<li><strong>Generate insights:</strong> Calculate relationship scores, identify perception gaps between partners, track progress over time</li>
+				<li><strong>Improve the Service:</strong> Analyze usage patterns, fix bugs, develop new features</li>
+				<li><strong>Send notifications:</strong> Deliver push notifications for new messages, action reminders, partner activity, and streak celebrations</li>
+				<li><strong>Provide AI features:</strong> Generate AI friend responses using relationship context (scores, love languages, general activity data - not raw message content)</li>
+				<li><strong>Manage subscriptions:</strong> Process payments and manage your premium subscription status via RevenueCat</li>
+				<li><strong>Ensure security:</strong> Detect and prevent fraud, abuse, and security incidents</li>
 			</ul>
 
-			<h2>Data Security</h2>
-			<p>We implement appropriate security measures to protect your personal information. Your data is encrypted both in transit and at rest. However, no method of transmission over the internet is 100% secure.</p>
+			<h2>4. How We Share Your Information</h2>
 
-			<h2>Data Sharing</h2>
-			<p>We do not sell your personal information. We may share your information only in the following circumstances:</p>
+			<h3>4.1 Within the App</h3>
+			<p><strong>With Your Partner:</strong><br>
+			All relationship data is shared between connected partners, including:</p>
 			<ul>
-				<li>With your explicit consent</li>
-				<li>To comply with legal obligations</li>
-				<li>To protect our rights and prevent fraud</li>
+				<li>Survey responses and relationship scores</li>
+				<li>Completed actions and activity timeline</li>
+				<li>Messages and shared media (encrypted)</li>
+				<li>Love language preferences</li>
+				<li>Streak and progress data</li>
 			</ul>
 
-			<h2>Your Rights</h2>
-			<p>You have the right to:</p>
+			<h3>4.2 With Third-Party Service Providers</h3>
+			<p>We share your information with the following trusted third-party services:</p>
+
+			<p><strong>Supabase (Database, Authentication, Storage):</strong></p>
 			<ul>
-				<li>Access your personal data</li>
-				<li>Correct inaccurate data</li>
-				<li>Request deletion of your data</li>
-				<li>Export your data</li>
+				<li>Purpose: Hosts all app data, manages authentication, stores encrypted media</li>
+				<li>Data shared: All user data, messages (encrypted), survey responses, actions, profile information</li>
+				<li>Location: Cloud infrastructure</li>
+				<li>Privacy Policy: <a href="https://supabase.com/privacy" target="_blank" rel="noopener noreferrer">https://supabase.com/privacy</a></li>
 			</ul>
 
-			<h2>Children's Privacy</h2>
-			<p>Our service is not intended for children under 13 years of age. We do not knowingly collect personal information from children under 13.</p>
+			<p><strong>RevenueCat (Subscription Management):</strong></p>
+			<ul>
+				<li>Purpose: Manages in-app purchases and subscription status</li>
+				<li>Data shared: User ID, device platform, subscription status, purchase history</li>
+				<li>Privacy Policy: <a href="https://www.revenuecat.com/privacy" target="_blank" rel="noopener noreferrer">https://www.revenuecat.com/privacy</a></li>
+			</ul>
 
-			<h2>Changes to This Policy</h2>
-			<p>We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the "Last updated" date.</p>
+			<p><strong>Sentry (Error Tracking):</strong></p>
+			<ul>
+				<li>Purpose: Monitors app performance, tracks crashes and errors</li>
+				<li>Data shared: User ID, email, error logs, crash reports, performance metrics, app version, device information</li>
+				<li>Privacy Policy: <a href="https://sentry.io/privacy/" target="_blank" rel="noopener noreferrer">https://sentry.io/privacy/</a></li>
+			</ul>
 
-			<h2>Contact Us</h2>
-			<p>If you have any questions about this Privacy Policy, please contact us at: <a href="mailto:privacy@stokeus.com">privacy@stokeus.com</a></p>
+			<p><strong>Anthropic AI (AI Friend Feature):</strong></p>
+			<ul>
+				<li>Purpose: Generates conversational AI friend responses with personality</li>
+				<li>Data shared: User and partner names, relationship scores, love language preferences, action completion rates, AI conversation history, selected personality traits</li>
+				<li>Data NOT shared: Raw message content from private couple messages</li>
+				<li>Privacy Policy: <a href="https://www.anthropic.com/privacy" target="_blank" rel="noopener noreferrer">https://www.anthropic.com/privacy</a></li>
+			</ul>
+
+			<p><strong>Expo (App Updates):</strong></p>
+			<ul>
+				<li>Purpose: Delivers over-the-air app updates</li>
+				<li>Data shared: Device platform, app version, project ID</li>
+				<li>Privacy Policy: <a href="https://expo.dev/privacy" target="_blank" rel="noopener noreferrer">https://expo.dev/privacy</a></li>
+			</ul>
+
+			<h3>4.3 What We Do NOT Do</h3>
+			<ul>
+				<li><strong>We do NOT sell your personal information</strong> to third parties</li>
+				<li><strong>We do NOT share your data with advertisers</strong> or advertising networks</li>
+				<li><strong>We do NOT track you across other apps or websites</strong> for advertising purposes</li>
+				<li><strong>We do NOT access or read your encrypted messages</strong> (only you and your partner can decrypt them)</li>
+			</ul>
+
+			<h2>5. Data Security</h2>
+			<p>We take the security of your data seriously and implement industry-standard security measures:</p>
+
+			<h3>5.1 Encryption</h3>
+
+			<p><strong>End-to-End Encryption for Messages:</strong></p>
+			<ul>
+				<li>All messages and shared media are encrypted using AES-256-CBC encryption</li>
+				<li>Encryption keys are generated uniquely per couple (256-bit random keys)</li>
+				<li>Keys are stored securely in device secure storage (Expo SecureStore)</li>
+				<li>Only you and your partner can decrypt your messages - we cannot read them</li>
+			</ul>
+
+			<p><strong>Data in Transit:</strong></p>
+			<ul>
+				<li>All data transmitted between the app and servers uses HTTPS/TLS encryption</li>
+			</ul>
+
+			<p><strong>Data at Rest:</strong></p>
+			<ul>
+				<li>Messages and media are stored in encrypted form</li>
+				<li>Database connections are secured with encryption</li>
+			</ul>
+
+			<h3>5.2 Access Controls</h3>
+			<ul>
+				<li><strong>Row Level Security (RLS):</strong> Database policies ensure users can only access their own data and their partner's data</li>
+				<li><strong>Authentication required:</strong> All API requests require valid authentication tokens</li>
+				<li><strong>Session management:</strong> Automatic token refresh and secure session handling</li>
+			</ul>
+
+			<h3>5.3 Data Retention</h3>
+			<ul>
+				<li><strong>Message media:</strong> Automatically expires and is deleted after 90 days</li>
+				<li><strong>Survey data:</strong> Retained to track relationship progress over time</li>
+				<li><strong>Action history:</strong> Retained for progress tracking and insights</li>
+				<li><strong>Account data:</strong> Retained until you delete your account</li>
+			</ul>
+
+			<h2>6. Your Privacy Rights</h2>
+			<p>Depending on your location, you may have the following rights:</p>
+			<ul>
+				<li><strong>Access:</strong> Request a copy of the personal information we hold about you</li>
+				<li><strong>Correction:</strong> Request correction of inaccurate or incomplete information</li>
+				<li><strong>Deletion:</strong> Request deletion of your personal information and account</li>
+				<li><strong>Data Portability:</strong> Request a copy of your data in a machine-readable format</li>
+				<li><strong>Withdraw Consent:</strong> Withdraw consent for data processing where applicable</li>
+				<li><strong>Opt-out of Communications:</strong> Disable push notifications in app settings</li>
+			</ul>
+			<p>To exercise these rights, please contact us at the email address provided in Section 11.</p>
+
+			<h2>7. Children's Privacy</h2>
+			<p>Stoke is designed for adults in romantic relationships. Our Service is not intended for individuals under the age of 18. We do not knowingly collect personal information from children under 18. If you are a parent or guardian and believe your child has provided us with personal information, please contact us, and we will delete such information.</p>
+
+			<h2>8. Data Transfers</h2>
+			<p>Your information may be transferred to and maintained on servers located outside of your state, province, country, or other governmental jurisdiction where data protection laws may differ. By using Stoke, you consent to the transfer of your information to our facilities and the third parties with whom we share it as described in this policy.</p>
+
+			<h2>9. Changes to This Privacy Policy</h2>
+			<p>We may update this Privacy Policy from time to time. We will notify you of any changes by:</p>
+			<ul>
+				<li>Posting the new Privacy Policy in the app</li>
+				<li>Updating the "Last Updated" date at the top of this policy</li>
+				<li>Sending you a push notification for material changes (if applicable)</li>
+			</ul>
+			<p>Your continued use of the Service after changes become effective constitutes your acceptance of the revised policy.</p>
+
+			<h2>10. Third-Party Links</h2>
+			<p>The app may contain links to third-party websites, services, or resources (such as external articles in action recommendations). We are not responsible for the privacy practices of these third parties. We encourage you to read their privacy policies.</p>
+
+			<h2>11. Contact Us</h2>
+			<p>If you have questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us at:</p>
+			<p>
+				<strong>Email:</strong> <a href="mailto:help@stokeus.com">help@stokeus.com</a><br>
+				<strong>Website:</strong> <a href="https://stokeus.com">https://stokeus.com</a><br>
+				<strong>Support:</strong> <a href="https://stokeus.com/help">https://stokeus.com/help</a>
+			</p>
+
+			<h2>12. Additional Information for Specific Regions</h2>
+
+			<h3>12.1 California Residents (CCPA)</h3>
+			<p>California residents have additional rights under the California Consumer Privacy Act (CCPA):</p>
+			<ul>
+				<li>Right to know what personal information is collected</li>
+				<li>Right to know whether personal information is sold or disclosed and to whom</li>
+				<li>Right to say no to the sale of personal information (Note: We do not sell personal information)</li>
+				<li>Right to access your personal information</li>
+				<li>Right to equal service and price, even if you exercise your privacy rights</li>
+			</ul>
+
+			<h3>12.2 European Union Residents (GDPR)</h3>
+			<p>EU residents have rights under the General Data Protection Regulation (GDPR):</p>
+			<ul>
+				<li>Legal basis for processing: Consent, contract performance, legitimate interests</li>
+				<li>Right to access, rectify, erase, restrict processing, data portability, and object to processing</li>
+				<li>Right to lodge a complaint with your local data protection authority</li>
+				<li>Data Protection Officer contact: [If applicable]</li>
+			</ul>
+
+			<h3>12.3 Other Jurisdictions</h3>
+			<p>We comply with applicable privacy laws in all jurisdictions where we operate. If you have questions about your specific rights, please contact us.</p>
+
+			<hr>
+
+			<div class="notice">
+				<p><strong>By using Stoke, you acknowledge that you have read and understood this Privacy Policy.</strong></p>
+			</div>
 		</div>
 	</body>
 </html>
