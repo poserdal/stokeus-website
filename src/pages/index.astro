@@ -8,8 +8,8 @@
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
-		<title>Stoke - Coming Soon</title>
-		<meta name="description" content="Stoke - Grow your relationship with simple actions. Coming soon." />
+		<title>Stoke - Ignite Your Relationship</title>
+		<meta name="description" content="Stoke ignites the fire in your relationship and keeps it burning bright." />
 		<style>
 			* {
 				margin: 0;
@@ -21,50 +21,164 @@
 				font-family: -apple-system, BlinkMacSystemFont, "SF Pro", "Segoe UI", sans-serif;
 				background-color: #ffffff;
 				color: #000000;
-				padding: 2rem;
+				min-height: 100vh;
+				display: flex;
+				align-items: center;
+				padding: 4rem 10rem;
 			}
 
 			.container {
-				max-width: 500px;
+				width: calc(100% - 6rem);
+				max-width: 1400px;
 				margin: 0 auto;
-				text-align: center;
-				padding-top: calc(50vh - 3rem);
-				padding-bottom: 100px;
+				display: grid;
+				grid-template-columns: 1fr 1px 2fr;
+				gap: 4rem;
+				align-items: start;
 			}
 
-			h1 {
-				font-size: 3rem;
+			.brand-section {
+				text-align: left;
+				padding-right: 2rem;
+				display: flex;
+				flex-direction: column;
+				height: 100%;
+			}
+
+			.brand-section > div {
+				margin-top: 8rem;
+			}
+
+			.brand-name {
+				font-size: 6rem;
 				font-weight: 700;
-				margin-bottom: 1.5rem;
-				letter-spacing: -0.02em;
+				letter-spacing: -0.03em;
+				margin-bottom: 1rem;
 			}
 
-			p {
+			.pronunciation {
+				font-size: 1.5rem;
+				color: #666666;
+				font-style: italic;
+				margin-bottom: 0.5rem;
+			}
+
+			.definition {
 				font-size: 1.25rem;
+				color: #666666;
 				line-height: 1.6;
+			}
+
+			.coming-soon {
+				margin-top: auto;
+				font-size: 1rem;
+				color: #999999;
+				text-transform: uppercase;
+				letter-spacing: 0.1em;
+			}
+
+			.divider {
+				width: 1px;
+				height: 400px;
+				background-color: #e0e0e0;
+				align-self: center;
+			}
+
+			.content-section {
+				text-align: left;
+				padding-left: 2rem;
+			}
+
+			.content-section p {
+				font-size: 1.125rem;
+				line-height: 1.8;
 				color: #333333;
 				margin-bottom: 1.5rem;
-				font-weight: 800;
+			}
+
+			.content-section p:first-child {
+				font-size: 1.25rem;
+				font-weight: 600;
 			}
 
 			@media (max-width: 768px) {
-				h1 {
-					font-size: 2rem;
+				body {
+					padding: 3rem 4rem;
 				}
-				p {
+
+				.container {
+					grid-template-columns: 1fr;
+					gap: 3rem;
+				}
+
+				.divider {
+					display: none;
+				}
+
+				.brand-section {
+					text-align: center;
+					padding-right: 0;
+				}
+
+				.content-section {
+					text-align: left;
+					padding-left: 0;
+				}
+
+				.brand-name {
+					font-size: 4rem;
+				}
+			}
+
+			@media (max-width: 480px) {
+				body {
+					padding: 2rem 3rem;
+				}
+
+				.brand-name {
+					font-size: 3rem;
+				}
+
+				.pronunciation {
+					font-size: 1.25rem;
+				}
+
+				.definition {
 					font-size: 1rem;
+				}
+
+				.content-section p {
+					font-size: 1rem;
+				}
+
+				.content-section p:first-child {
+					font-size: 1.125rem;
 				}
 			}
 		</style>
 	</head>
 	<body>
 		<div class="container">
-			<h1>Stoke</h1>
-			<p>Our goal is to get couples l🤣ghing and f🖤ing again. Nobody shows us how to keep desire alive after Tinder. How to sex each other better as we grow, how to fight without destroying each other, or stay obsessed with someone you've seen at their worst, for over 15 years straight.</p>
-		<p>So many relationships are simply exhausting themselves, and couples don't know why.</p>
-		<p>Don't settle for that.</p>
-		<p>Stoke is here to help you</p>
-		<p>COMING SOON</p>
+			<div class="brand-section">
+				<div>
+					<h1 class="brand-name">STOKE</h1>
+					<p class="pronunciation">[stohk]</p>
+					<p class="definition">Stir up a 🔥 to make it burn hotter</p>
+				</div>
+				<p class="coming-soon">Coming Soon</p>
+			</div>
+
+			<div class="divider"></div>
+
+			<div class="content-section">
+				<p>Stoke ignites the 🔥 in your relationship again, and keeps it burning bright.</p>
+				<p>Too many relationships are extinguishing from exhaustion and couples don't know why.</p>
+				<p>At Stoke, we're here to get you IN love again.</p>
+				<p>You know, listening, talking, dating, sexing, planning, sexting, trusting, learning, changing, caring, sexxxing, healing, laughing, and growing...together.</p>
+				<p>Nobody shows us how to keep desire alive after Tinder. How to sex each other better, how to fight without destroying each other, or stay obsessed with someone you've seen at their worst for 15 years straight.</p>
+				<p>Enter Stoke. The only app for couples after tinder (or whatever way you met) that keeps the flame burning bright.</p>
+				<p>Relationships are work. Stoke makes it easy to know what you can do to stoke that flame. Stop guessing, use Stoke.</p>
+			</div>
 		</div>
 	</body>
 </html>
