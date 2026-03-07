@@ -1,0 +1,99 @@
+---
+import { getCollection } from 'astro:content';
+
+const articles = await getCollection('articles');
+const sortedArticles = articles.sort((a, b) =>
+  b.data.publishedDate.getTime() - a.data.publishedDate.getTime()
+);
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>All Landing Pages · Stoke</title>
+  <meta name="robots" content="noindex, nofollow">
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: #f5f5f5;
+      color: #1a1a1a;
+      padding: 40px 24px;
+      line-height: 1.5;
+    }
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+    }
+    h1 {
+      font-size: 24px;
+      font-weight: 600;
+      margin-bottom: 8px;
+    }
+    .count {
+      color: #666;
+      font-size: 14px;
+      margin-bottom: 32px;
+    }
+    .list {
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+    .item {
+      background: white;
+      border: 1px solid #e0e0e0;
+      border-radius: 8px;
+      padding: 16px 20px;
+      text-decoration: none;
+      color: inherit;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      transition: border-color 0.15s, box-shadow 0.15s;
+    }
+    .item:hover {
+      border-color: #FF6B35;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    }
+    .item-title {
+      font-weight: 500;
+      font-size: 15px;
+    }
+    .item-meta {
+      display: flex;
+      gap: 12px;
+      font-size: 12px;
+      color: #888;
+    }
+    .tag {
+      background: #f0f0f0;
+      padding: 2px 8px;
+      border-radius: 4px;
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.03em;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Landing Pages</h1>
+    <p class="count">{sortedArticles.length} articles</p>
+
+    <div class="list">
+      {sortedArticles.map((article) => (
+        <a href={`/${article.slug}`} class="item">
+          <span class="item-title">{article.data.searchHeadline} {article.data.searchHeadlineEm}</span>
+          <div class="item-meta">
+            <span class="tag">{article.data.cluster}</span>
+            <span>{article.data.readTime}</span>
+          </div>
+        </a>
+      ))}
+    </div>
+  </div>
+</body>
+</html>

@@ -1,0 +1,116 @@
+# Stoke Landing Page Search Terms
+# One term per line - these will be processed by the batch script
+# Lines starting with # are ignored
+
+# How To Questions (High Intent)
+How to make a long distance relationship work
+How to save my marriage
+How to fix a sexless marriage
+How to rebuild trust after cheating
+How to communicate better with my partner
+How to be a better husband
+How to be a better wife
+How to rekindle the spark
+How to apologize to your partner
+How to forgive your spouse
+How to stop fighting with my partner
+How to fall back in love
+How to know if my marriage is over
+How to improve intimacy in marriage
+How to make my partner feel loved
+
+# Problem-Focused Searches
+Sexless marriage
+Dead bedroom
+Falling out of love
+Feel disconnected from partner
+Lost feelings for spouse
+Relationship feels like roommates
+No spark in relationship
+Marriage problems
+Communication problems in marriage
+Trust issues in relationship
+Emotional distance in marriage
+Partner doesn't listen
+We never have sex anymore
+
+# Trending Terms
+Emotional intimacy
+Attachment styles
+Love languages
+
+# Relationship Stage - Early
+First date ideas
+Dating tips
+New relationship advice
+
+# Relationship Stage - Long-term
+Date night ideas
+Romantic ideas for couples
+Anniversary ideas
+Surprise ideas for partner
+At home date ideas
+Cheap date ideas
+How long does honeymoon phase last
+
+# Marriage-Specific
+Marriage advice
+Happy marriage tips
+Save my marriage
+Is my marriage over
+
+# Intimacy & Physical Connection
+How to improve sex life
+Intimacy in marriage
+Physical touch love language
+Increase desire in relationship
+Lack of intimacy
+Spice up relationship
+Romantic gestures
+Emotional intimacy
+
+# Communication & Conflict
+Communication in relationships
+How to argue without fighting
+Stonewalling in relationships
+Silent treatment in marriage
+How to have difficult conversations
+Active listening in relationships
+Fighting fair in marriage
+How to stop nagging
+Passive aggressive partner
+How to compromise in relationship
+
+# Trust & Healing
+Rebuild trust after affair
+Infidelity recovery
+Forgiveness in marriage
+Healing from betrayal
+Moving on from cheating
+Trust issues
+How to trust again
+Emotional affair signs
+
+# Modern Relationship Concepts
+Anxious attachment
+Avoidant attachment
+Secure attachment
+Relationship goals
+Healthy relationship checklist
+Green flags in relationship
+
+# Life Stage Challenges
+Relationship after baby
+Marriage after kids
+Empty nest marriage
+Relationship during stress
+Financial stress and marriage
+In-law problems
+Blended family challenges
+Long distance relationship tips
+
+# Emotional Connection
+Feeling wanted in relationship
+Make partner feel special
+Quality time with spouse
+Words of affirmation examples
