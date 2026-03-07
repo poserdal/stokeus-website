@@ -25,19 +25,19 @@ cluster: reconnection
 
 ## The Worst Part About Asking If Your Marriage Is Over
 
-The worst part is not knowing. You wake up next to someone and feel nothing, or worse, feel dread. Then two days later you have a good conversation over coffee and think maybe you're overreacting. Then the weekend comes and you're back to wondering if you're wasting your life. The question is my marriage is over sits in the back of your mind like a low hum you can't turn off.
+The worst part is not knowing. You wake up next to someone and feel nothing, or worse, feel dread. Then two days later you have a good conversation over coffee and think maybe you're overreacting. The question is my marriage is over sits in the back of your mind like a low hum you can't turn off.
 
-Most marriage advice will give you a checklist. Seven signs it's over. Ten red flags. A quiz that spits out a percentage. That's garbage. Real relationships don't fit in boxes. The truth is messier and harder to hear: you probably won't get a clear answer from an article. But you can get clarity on what you're actually dealing with.
+Most marriage advice will give you a checklist. Seven signs it's over. Ten red flags. A quiz that spits out a percentage. That's garbage. Real relationships don't fit in boxes. The truth is messier: you probably won't get a clear answer from an article. But you can get clarity on what you're actually dealing with.
 
 ### Stop looking for permission to leave
 
-Here's what nobody says. If you're searching for signs your marriage is over, part of you is hoping someone will tell you it's okay to go. That the internet will hand you a list that matches your situation so you can stop feeling guilty about wanting out. That's not weakness. That's human. Leaving feels like detonating your own life, and we want someone else to tell us we have to.
+If you're searching for signs your marriage is over, part of you is hoping someone will tell you it's okay to go. That the internet will hand you a list that matches your situation so you can stop feeling guilty about wanting out. That's not weakness. That's human. Leaving feels like detonating your own life, and we want someone else to tell us we have to.
 
-But outsourcing that decision doesn't work. You'll find articles that say contempt means it's over. You'll find others that say couples recover from contempt all the time. You'll read that if you're not fighting anymore it means you've checked out. Then you'll read that減少conflict is a sign of maturity. The checklist won't save you because every marriage is different and every hard season looks different.
+But outsourcing that decision doesn't work. You'll find articles that say contempt means it's over. You'll find others that say couples recover from contempt all the time. The checklist won't save you because every marriage is different and every hard season looks different.
 
 ### The question underneath the question
 
-When someone asks is my marriage over, what they're really asking is: am I allowed to feel this way? Is it normal to be this unhappy? Have I tried hard enough? Will I regret leaving? Will I regret staying?
+When someone asks is my marriage over, what they're really asking is: am I allowed to feel this way? Is it normal to be this unhappy? Have I tried hard enough? Will I regret leaving?
 
 Those are better questions. The first one assumes there's an objective answer. The second set gets at what you actually need to figure out: whether this is a rough patch in a good marriage or whether you're trying to resuscitate something that's been over for a while.
 
@@ -45,21 +45,21 @@ Those are better questions. The first one assumes there's an objective answer. T
 
 ### What actually matters
 
-Forget the checklists. Here's what separates a marriage that's struggling from one that's done. Do you still respect each other? Not love. Not passion. Respect. Can you hear your partner's perspective without contempt? Do they do the same for you? If the answer is no, and it's been no for a long time, that's the thing to pay attention to.
+Forget the checklists. Here's what separates a marriage that's struggling from one that's done. Do you still respect each other? Not love. Not passion. Respect. Can you hear your partner's perspective without contempt? If the answer is no, and it's been no for a long time, that's the thing to pay attention to.
 
-Second question: are both of you willing to work on it? Not just you. Both. A marriage can't survive on one person's effort. If you're reading this and your partner has completely checked out, refuses therapy, refuses to talk, refuses to try, that tells you something. One person can't save a marriage.
+Second question: are both of you willing to work on it? Not just you. Both. A marriage can't survive on one person's effort. If you're reading this and your partner has completely checked out, refuses therapy, refuses to talk, that tells you something. One person can't save a marriage.
 
 Third: is there abuse? Emotional, physical, financial, any of it. If yes, you're asking the wrong question. The question isn't whether the marriage is over. It's how do I get out safely.
 
 ### What to do when you still don't know
 
-If you're still stuck after sitting with those questions, that's okay. Not knowing doesn't mean you're broken or indecisive. It means the situation is legitimately hard.
+If you're still stuck, that's okay. Not knowing doesn't mean you're broken. It means the situation is legitimately hard.
 
-Try this. Give it a deadline. Not forever. Not next week. Maybe 90 days. Maybe six months. Tell yourself and your partner: we're going to actually try for this amount of time. Therapy. Date nights. Hard conversations. The whole thing. And at the end of that window, we'll revisit.
+Try this. Give it a deadline. Maybe 90 days. Maybe six months. Tell yourself and your partner: we're going to actually try for this amount of time. Therapy. Date nights. Hard conversations. And at the end of that window, we'll revisit.
 
-That takes the pressure off having to decide right now while you're exhausted and confused. It also gives you data. If you try for three months and nothing changes, you have your answer. If things start to shift, even a little, you have a different answer.
+That takes the pressure off deciding right now while you're exhausted. It also gives you data. If you try for three months and nothing changes, you have your answer. If things start to shift, you have a different answer.
 
-And if your partner won't agree to that window? If they won't try, won't go to therapy, won't have the hard conversations? That's also your answer.
+And if your partner won't agree to that window? That's also your answer.
 
 ### The thing nobody wants to hear
 
