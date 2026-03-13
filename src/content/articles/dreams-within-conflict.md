@@ -1,6 +1,6 @@
 ---
 title: "The Hidden Dreams Inside Your Relationship Arguments · Stoke"
-metaDescription: "You're not fighting about dishes. You're fighting about respect. You're not fighting about money. You're fighting about security. Here's how to find the real issue."
+metaDescription: "You're not fighting about dishes—you're fighting about respect. Not about money—about security. Here's how to find the real issue."
 searchHeadline: "The Hidden Dreams"
 searchHeadlineEm: "Inside Your Arguments"
 searchSubhead: "Every recurring fight has a dream underneath it. A need so important that you can't let it go. Finding it changes everything."
