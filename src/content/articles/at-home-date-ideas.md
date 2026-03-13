@@ -23,7 +23,7 @@ publishedDate: 2026-03-07
 cluster: reconnection
 ---
 
-## Most At Home Date Ideas Fail for the Same Reason
+## Why do most at-home date ideas fail?
 
 You search for at home date ideas because going out feels like too much right now. Money, energy, logistics, whatever. Fair. The internet gives you a list of 40 things and suddenly you're more exhausted than when you started.
 
@@ -31,7 +31,7 @@ Here's what nobody says. The problem is not that you picked the wrong activity. 
 
 At home dates work when they require almost no activation energy and still create space for actual connection. Everything else is just Pinterest cosplay.
 
-### Stop Optimizing for Instagram and Start Optimizing for Presence
+### Should my at-home date look good on Instagram?
 
 The best at home date is the one that actually happens. Not the one that would look good in a story. If you're both tired, trying to execute some elaborate murder mystery dinner party is going to make you resent each other, not reconnect.
 
@@ -39,7 +39,7 @@ Ask yourself if this activity would still be worth doing if your phone was in an
 
 > The goal is not to impress each other. The goal is to be in the same room and actually pay attention.
 
-### Do Something That Puts You on the Same Team
+### What should we do on an at-home date?
 
 Competitive games can be fun, but not when you're already low on goodwill. If things have been tense or distant, don't pick an activity where one of you wins and one of you loses. That just becomes a proxy war for whatever you're actually annoyed about.
 
@@ -47,19 +47,19 @@ Cooking something new together works because you're solving a problem as a unit.
 
 The version of this that actually lands is when you pick something neither of you is good at. If one person is a great cook and the other can't boil water, cooking together just becomes a performance review. Pick the thing where you're both beginners and the stakes are zero.
 
-### The Silence Test
+### Why does silence feel awkward on our at-home dates?
 
 If you sit on the couch together and do absolutely nothing for 20 minutes, does that feel comfortable or unbearable? If it feels unbearable, adding activities on top is just going to mask the real issue. You don't need a date idea. You need to talk about why being in the same room feels hard.
 
 If the silence between you feels bad, a fondue set is not going to fix that. Start there. Sit together. See what comes up. That might be the whole date.
 
-### Build a Routine That Requires Zero Decisions
+### Should at-home dates be spontaneous or planned?
 
 Decision fatigue kills intimacy faster than anything else. If every date night requires a full strategic planning session, you'll stop doing it. The couples who actually stay connected at home have a default. Same night every week. Same general vibe. No debate.
 
 Tuesday is pizza and a show. Friday is takeout and a walk. Sunday morning is coffee on the couch before the day starts. Lock it in. Make it automatic. Intimacy is built in repetition, not novelty. The fancy stuff can happen sometimes, but if you don't have a baseline rhythm that costs you nothing to maintain, you'll stop trying altogether.
 
-### If It Feels Like Homework, Stop
+### What if our at-home date feels forced?
 
 You will know within five minutes if the thing you planned is making things better or worse. If it feels forced, bail. Order food. Watch trash TV. Go to bed early. There is no award for finishing a date idea that isn't working.
 

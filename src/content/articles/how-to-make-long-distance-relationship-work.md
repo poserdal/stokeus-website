@@ -23,19 +23,19 @@ publishedDate: 2025-01-15
 cluster: long-term
 ---
 
-## What Actually Makes a Long Distance Relationship Work
+## What actually makes a long distance relationship work?
 
 You already know you're supposed to communicate. Schedule FaceTimes. Have an end date. Send good morning texts. Everyone says the same thing, and none of it addresses the real problem. The real problem is not that you don't talk enough. It's that one of you stops living your actual life while waiting for the other person's to start including you again.
 
 That's what kills long distance relationships. Not the miles. Not the timezone. The slow erosion of your own world while you orbit theirs.
 
-### Stop treating communication like a quota
+### Should I treat communication like a quota?
 
 Most advice about how to make a long distance relationship work focuses on frequency. Talk every day. Video call three times a week. Text good morning and good night. But if you've been in one of these for more than a month, you already know that scheduled intimacy feels like a performance. You get on the call because you're supposed to, not because you actually have something to say. Then you spend 45 minutes trying to fill silence, and you both hang up feeling more distant than before.
 
 The couples that survive long distance don't talk the most. They talk the best. That means you get on a call when one of you has something real to share. A story. A problem. A question. Something that actually matters. Not because it's 8pm and it's on the calendar.
 
-### Keep building your own life
+### Should I keep building my own life while we're apart?
 
 Here's the thing nobody tells you. When your partner isn't physically there, it's easy to put everything on hold. You stop making plans with friends because what if they're free that night. You don't join the climbing gym because you'll just quit when you move. You turn down the work project because you're trying to keep your schedule flexible. And six months later, you're boring. You have nothing to talk about because you stopped doing things worth talking about.
 
@@ -43,13 +43,13 @@ The healthiest long distance couples are the ones who stay interesting. They hav
 
 > The distance doesn't kill the relationship. Becoming a smaller version of yourself while you wait does.
 
-### Have a plan, but don't let the plan run your life
+### Do I need a plan for when long distance ends?
 
 Yes, you need to know this isn't permanent. Yes, an end date matters. But if that end date is two years away and you spend every week just counting down, you're going to resent the hell out of each other by the time you're finally in the same place. The plan is there to give you direction, not to become the only thing you talk about.
 
 Plenty of couples have a loose timeline and make it work. Plenty of couples with a hard end date still fall apart. The difference is whether you're both still growing in the meantime or just treading water.
 
-### Know what actually breaks trust
+### What actually breaks trust in a long distance relationship?
 
 It's not that they went to a party without you. It's that they stopped mentioning when they did. Trust in a long distance relationship isn't about restricting each other's lives. It's about being included in them, even from a distance. When someone starts editing their stories to avoid conflict, that's the beginning of the end.
 

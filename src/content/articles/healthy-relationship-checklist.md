@@ -23,7 +23,7 @@ publishedDate: 2026-01-20
 cluster: long-term
 ---
 
-## Stop Auditing Your Relationship Like a Performance Review
+## Does my relationship need to check every box?
 
 You've probably seen the lists. Twelve signs of a healthy relationship. Fifteen green flags. Twenty things couples in strong partnerships do daily. And if you're here searching for a healthy relationship checklist, you've likely already read a few of them and mentally ticked off boxes. Trust? Check. Communication? Mostly. Respect? Sure. But then you hit one that doesn't quite fit, and suddenly you're spiraling.
 
@@ -31,7 +31,7 @@ Here's the thing. Checklists are garbage. Not because the items are wrong. Most 
 
 The better question is not whether your relationship has all the right features. It's whether you're both still showing up.
 
-### You can name what's hard without it turning into a fight
+### Can we talk about hard things without it turning into a fight?
 
 This is the one that matters most. Not whether you communicate perfectly or never argue. But whether you can say the true thing and your partner doesn't make you regret it.
 
@@ -39,7 +39,7 @@ Healthy relationships have conflict. What they don't have is punishment for hone
 
 It doesn't mean every hard conversation goes well. It means your partner doesn't weaponize vulnerability. If you can say "I've been feeling distant lately" without bracing for impact, you're doing fine.
 
-### You still like them when nothing's happening
+### Do I still actually like my partner?
 
 Forget the vacations and date nights. Do you like being in the same room when neither of you is talking? Can you both just exist near each other without it feeling like a waiting room?
 
@@ -49,13 +49,13 @@ If the answer is no, the checklist doesn't matter.
 
 > The best relationships aren't the ones that never struggle. They're the ones where both people keep choosing to try.
 
-### They make you feel more like yourself, not less
+### Does my partner make me feel like myself?
 
 You know that thing where you're around someone and you start editing yourself? You don't tell the whole story. You soften your opinions. You perform a version of yourself that you think they'll like better. That's not a healthy relationship. That's a performance.
 
 The right person doesn't make you smaller. They don't need you to be less weird, less intense, less whatever you actually are. You should feel more yourself around them, not less. If you're constantly managing how you come across, something's wrong.
 
-### When one of you screws up, repair happens fast
+### How fast do we repair after a fight?
 
 Nobody gets it right all the time. You're going to snap when you're tired. Say something thoughtless. Forget something that mattered. The health of a relationship isn't measured by whether mistakes happen. It's measured by what happens after.
 
@@ -63,7 +63,7 @@ Do you apologize and mean it, or defend and deflect? Does your partner hear you 
 
 If repair takes hours, fine. If it takes days every time, that's not.
 
-### The real test is whether you're both trying
+### What's the real test of a healthy relationship?
 
 Here's what no healthy relationship checklist will tell you. You can have trust, respect, communication, and all the other buzzwords, and still feel like something's missing. Or you can have a relationship that's messy and nothing like the ideal, and it still works because both of you care enough to keep trying.
 

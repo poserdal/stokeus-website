@@ -23,13 +23,13 @@ publishedDate: 2026-01-20
 cluster: long-term
 ---
 
-## When In-Law Problems Are Actually Partner Problems
+## Are my in-law problems actually about my partner?
 
 Most advice about in-law problems starts with setting boundaries. Learning to communicate. Presenting a united front. All true. All useless if your partner won't actually do the thing with you.
 
 The issue isn't usually that your mother-in-law texts too much or your father-in-law makes comments about your career. The issue is that when you bring it up, your partner gets defensive. Or tells you you're overreacting. Or says nothing and hopes it goes away. That's when in-law problems become relationship problems.
 
-### Your partner has to be the one who says something
+### Who should handle conflicts with my in-laws?
 
 Here's what nobody wants to hear. If your partner's family is the problem, your partner has to be the one to address it. Not you. Not both of you together. Them.
 
@@ -37,7 +37,7 @@ When you try to set a boundary with your in-laws directly, it reads as an attack
 
 But when your partner says it, it works differently. It's their kid. It's their sibling. There's history and leverage and an existing language for hard conversations. Your partner saying "Mom, we need you to call before coming over" lands. You saying it creates a war.
 
-### The conversation you need to have is with your partner, not your in-laws
+### Should I confront my in-laws directly?
 
 Most people skip this step and go straight to the conflict. They try to manage the in-laws directly because their partner won't. That never fixes it. It just makes you the villain and your partner the referee.
 
@@ -47,7 +47,7 @@ If they push back, that's the real conversation. Not about the in-laws. About wh
 
 > The in-law problem is actually a test. It's showing you whether your partner knows how to protect the relationship when it's uncomfortable.
 
-### Pick the battles that actually matter
+### Which in-law battles are worth fighting?
 
 Not every comment needs a response. Not every unsolicited opinion is worth the fallout. If you treat everything like a crisis, your partner will stop hearing you.
 
@@ -55,7 +55,7 @@ Ask yourself what actually damages the relationship versus what's just annoying.
 
 Save your energy for the things that cross a line. Respect. Privacy. Time together. Parenting decisions if you have kids. Those are worth the hard conversation. The rest is noise.
 
-### What it looks like when it's actually working
+### How do I know if the in-law situation is improving?
 
 You know it's working when your partner starts handling things before you have to ask. When they notice the boundary getting crossed and step in without prompting. When they stop making excuses for behavior that disrespects you.
 

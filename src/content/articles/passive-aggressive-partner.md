@@ -23,7 +23,7 @@ publishedDate: 2025-03-07
 cluster: reconnection
 ---
 
-## What to Do When Your Partner Won't Fight Fair
+## How do I deal with a passive aggressive partner?
 
 You know what passive aggression looks like. The silent treatment that lasts for hours. The exaggerated sigh when you ask a simple question. The 'nothing's wrong' delivered in a tone that makes it very clear something is extremely wrong.
 
@@ -31,7 +31,7 @@ You're not imagining it. And you're not overreacting. Living with a passive aggr
 
 The worst part? When you bring it up, they can deny everything. That's the whole design of passive aggression. It's anger with plausible deniability.
 
-### Name it out loud
+### Should I call out passive aggression?
 
 The first move is to stop pretending you don't notice. Passive aggression survives in the gray area where nobody acknowledges what's happening. Kill the gray area.
 
@@ -41,7 +41,7 @@ You're not asking them to admit they're being passive aggressive. You're just re
 
 > Passive aggression only works if you pretend not to notice. Stop pretending.
 
-### Stop trying to guess what they're upset about
+### Why do I keep trying to guess what's wrong?
 
 This is the trap. Your partner won't tell you what's wrong, so you start running through every possible thing you might have done. You apologize for three different things just to cover your bases. And in doing that, you've rewarded the passive aggression.
 
@@ -51,7 +51,7 @@ Break the pattern. When they shut down or go cold, don't chase. Don't guess. Jus
 
 It feels counterintuitive. But you're not being cold. You're refusing to participate in a game where one person withholds information and the other person does all the emotional labor of figuring it out.
 
-### Make it easier to be direct than indirect
+### How do I get my partner to be more direct?
 
 Passive aggression happens for a reason. Usually because somewhere along the line, your partner learned that being direct leads to conflict, dismissal, or punishment. So they went underground.
 
@@ -61,7 +61,7 @@ If you want them to stop, you have to make honesty safer than hinting. That mean
 
 Do that enough times and the cost-benefit analysis of passive aggression starts to shift. Direct becomes easier. Indirect becomes less appealing.
 
-### Decide what you'll tolerate
+### How much passive aggression should I tolerate?
 
 Here's the thing nobody says. You can do everything right and your partner might not change. Passive aggression is a deeply ingrained pattern. Some people have been doing it since childhood. They might not even realize they're doing it.
 

@@ -23,19 +23,19 @@ publishedDate: 2025-01-16
 cluster: reconnection
 ---
 
-## Why You Keep Having the Same Fight, and How to Stop
+## Why do we keep having the same fight?
 
 You're not actually fighting about the dishes. Or whose turn it is to text first. Or what they said at dinner last Tuesday. Those are just the topics the fight latches onto. The real fight is about something deeper, and until you name what that something is, you'll keep cycling through the same script with different props.
 
 Most couples who fight constantly aren't bad at relationships. They're stuck in a pattern where both people are reacting to what the other person just did, and neither person can see the loop they're both caught in. Breaking that pattern doesn't require couples therapy or a weekend retreat. It requires seeing the fight for what it actually is.
 
-### Stop trying to win the argument
+### Should I try to win the argument?
 
 The moment you start building your case for why you're right, you've already lost. Not the argument. The relationship goal. Because when you're in win mode, your partner isn't a person you're trying to understand. They're an opponent you're trying to defeat. And you can be right, or you can be connected. Most of the time you don't get both.
 
 Here's the shift: next time you feel yourself gearing up to prove your point, stop. Ask one question instead. "What are you actually upset about?" Not as a gotcha. As a real question. Most fights dissolve the second one person stops defending and starts listening.
 
-### Name what you're really afraid of
+### What am I really afraid of?
 
 That fight about them being late? It's probably not about the 15 minutes. It's about feeling like you don't matter, or that they're not considering you, or that you can't rely on them. That fight about money? It's about control, or security, or fear of the future. **The content of your fights is almost never what the fight is actually about.**
 
@@ -43,19 +43,19 @@ Try this once. In the middle of a fight, say out loud what you're actually scare
 
 > You can't fix a problem you refuse to name. Most couples are fighting about feelings they've never said out loud.
 
-### Figure out your part in the loop
+### What's my part in this cycle?
 
 Every repeated fight has a cycle. One person does something. The other reacts. That reaction triggers the first person. And round it goes. You can't control what your partner does, but you can absolutely spot the moment where you predictably escalate. Maybe it's when you go silent. Maybe it's when you bring up old shit. Maybe it's when you get sarcastic.
 
 Find your move in the pattern and stop doing it. Just once. See what happens. Breaking a cycle doesn't require both people to change at the same time. It requires one person to stop feeding the loop.
 
-### Set one actual rule for how you fight
+### Should we have rules for how we fight?
 
 Most couples have zero structure for conflict. No agreement on what's fair, what's off limits, or when to walk away. So when things get heated, anything goes. And then you're both saying things you don't mean, pulling in stuff from six months ago, and turning a small disagreement into a referendum on the entire relationship.
 
 Sit down when you're not fighting and agree on one rule. Just one. Maybe it's no bringing up past fights. Maybe it's no yelling. Maybe it's that either person can call a timeout and the other has to respect it. The rule matters less than having one. Structure doesn't kill intimacy. It protects it.
 
-### Do one small thing differently tonight
+### What's one thing I can do differently tonight?
 
 Reading this won't stop the fights. Knowing what to do has never been the problem. The problem is that when you're triggered, all the knowledge in the world disappears and you default to the same reaction you always have. **Change happens in the doing, not the knowing.**
 

@@ -23,7 +23,7 @@ publishedDate: 2025-01-15
 cluster: reconnection
 ---
 
-## When You Feel Disconnected From Your Partner But Don't Know Why
+## Why do I feel disconnected from my partner?
 
 You're not fighting. Nothing terrible happened. You still love them. But somewhere between Tuesday morning coffee and Friday night Netflix, you realized you feel disconnected from your partner and you can't quite explain when it started.
 
@@ -31,13 +31,13 @@ It shows up in small ways. They tell you a story and you're half-listening. You'
 
 This kind of disconnection doesn't announce itself. It accumulates.
 
-### It happens to good couples
+### Does feeling disconnected mean our relationship is bad?
 
 The first thing to know is that this is not a referendum on your relationship. Disconnection is not the same as incompatibility. Most long-term couples cycle through periods of closeness and distance multiple times. Life pulls you in different directions. Work gets hard. Kids need things. Someone gets sick. You survive the logistics and forget to stay connected to each other.
 
 The difference between couples who stay together and couples who don't isn't whether they feel disconnected. It's whether they do something about it when they notice.
 
-### Stop waiting for a reason to reconnect
+### Should I wait for the right time to reconnect?
 
 Most people wait until they have enough time, enough energy, enough clarity about what went wrong. That day doesn't come. If you feel distant from your partner right now, the move is not to diagnose why or to schedule a weekend away three months from now. The move is to do one small thing tonight that closes the gap.
 
@@ -45,7 +45,7 @@ Text them something specific you noticed about them today. Not a question. Just 
 
 > Disconnection doesn't mean you've grown apart. It means you stopped building toward each other.
 
-### Say the thing you're avoiding
+### Should I tell my partner I feel disconnected?
 
 If you feel disconnected, they probably do too. And both of you are probably avoiding saying it out loud because it feels like an accusation. It's not. It's just true.
 
@@ -53,7 +53,7 @@ Try this tonight: "I've been feeling kind of distant from you lately. Not in a b
 
 Most of the time, they'll say yes. And then you're on the same team trying to solve the same problem instead of two people silently wondering if the other one still cares.
 
-### Do something uncomfortable together
+### What should we do together to reconnect?
 
 Closeness comes from shared experience, not shared space. Sitting on the couch together every night is not connection. It's proximity. If you want to feel close again, do something that requires both of you to be present at the same time.
 
@@ -61,7 +61,7 @@ Cook a complicated recipe together. Go for a walk without your phones. Ask them 
 
 Disconnection thrives in routine. Break the routine and you break the pattern.
 
-### Stop outsourcing your intimacy to the weekend
+### Can I wait until the weekend to reconnect?
 
 The biggest lie couples tell themselves is that they'll reconnect when things calm down. When work slows down. When the kids are older. When they finally take that trip. But closeness doesn't work like that. It's not something you access twice a year on vacation. It's something you build in five-minute increments on a Wednesday.
 

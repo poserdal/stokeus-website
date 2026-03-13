@@ -23,13 +23,13 @@ publishedDate: 2025-03-07
 cluster: long-term
 ---
 
-## Forgiveness Is a Practice, Not an Event
+## What does forgiveness in marriage actually look like?
 
 Most marriage advice treats forgiveness in marriage like something you do once after something big happens. An affair. A lie. A betrayal. But that's not what kills most marriages. What kills marriages is the pile of tiny unspoken resentments nobody let go of.
 
 Forgiveness isn't a crisis tool. It's a daily practice. The couples who stay together aren't the ones who never hurt each other. They're the ones who got good at forgiving the small stuff before it became big stuff.
 
-### Most People Are Terrible at Forgiving Small Things
+### Why is it so hard to forgive small things?
 
 Small betrayals are harder to forgive than big ones. When something big happens, you're forced to deal with it. But the small stuff? You just swallow it. You tell yourself it's not worth fighting over. You add it to the mental list and move on.
 
@@ -39,7 +39,7 @@ The solution isn't to bring up every minor annoyance. It's to actually forgive t
 
 > Forgiveness isn't pretending it didn't hurt. It's deciding it won't define what happens next.
 
-### You Can't Forgive Someone You Don't Understand
+### How do I forgive when I don't understand why they did it?
 
 Most advice tells you to forgive because holding grudges hurts you more than them. That's true but useless. The real block to forgiveness isn't that you don't know you should do it. It's that you don't understand why they did what they did.
 
@@ -47,7 +47,7 @@ When you understand someone, forgiveness gets easier. If your partner snapped be
 
 Most people skip this part. They either forgive too fast without understanding what happened, or refuse to forgive because they never figured out why. The work is asking the question and sitting with the answer.
 
-### Forgiveness Doesn't Mean No Consequences
+### Does forgiveness mean forgetting?
 
 A lot of people think forgiving someone means going back to how things were. It doesn't. Forgiveness is you letting go of the anger. Consequences are them earning back what they lost.
 

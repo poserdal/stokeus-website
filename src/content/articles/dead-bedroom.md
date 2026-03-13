@@ -23,19 +23,19 @@ publishedDate: 2025-01-15
 cluster: intimacy
 ---
 
-## What Actually Happens When the Bedroom Goes Dead
+## What actually happens when the bedroom goes dead?
 
 A dead bedroom doesn't announce itself. There's no moment where you both sit down and decide to stop having sex. It just happens. Once a week becomes twice a month becomes whenever you remember to try. And then trying feels worse than not trying, so you stop.
 
 Most advice treats this like a logistics problem. Schedule date nights. Talk about your needs. See a therapist. All true, all useless if you don't understand what you're actually dealing with. A dead bedroom isn't a sex problem. It's a desire problem. And desire doesn't respond to scheduling.
 
-### Stop Counting
+### Should I be counting how often we have sex?
 
 The worst thing the internet ever did was give us a number. Ten times a year. Once a month. Less than average. Now you're not just not having sex, you're failing a test you didn't know you were taking.
 
 Forget the number. The real question is whether the absence of sex bothers you, and if it does, whether you're both willing to do something about it. Some couples are fine with low frequency. Most people searching this term are not.
 
-### Resentment Kills Desire Faster Than Anything Else
+### Is resentment killing our desire?
 
 You know what doesn't make someone want to sleep with you? Quietly hating them for not wanting to sleep with you. This is the trap most dead bedrooms fall into. One person feels rejected. The other feels pressured. Both feel misunderstood.
 
@@ -45,13 +45,13 @@ That doesn't mean you need to play games or create fake distance. It means you n
 
 > A dead bedroom isn't a sex problem. It's a desire problem. And desire doesn't respond to scheduling.
 
-### Start Smaller Than You Think
+### How small should I start?
 
 Most advice tells you to initiate. To be vulnerable. To tell your partner you miss them physically. That's the right move eventually. But if it's been six months, starting with a conversation about sex is like starting a workout program with a marathon.
 
 Start with touch that has nothing to do with sex. A hand on their back when you pass them in the kitchen. Sitting close on the couch. A longer hug than usual. Reintroduce physical affection without expectation.
 
-### Talk About It, But Not Like That
+### How do I talk about our dead bedroom?
 
 At some point you do need to say the thing out loud. Not during a fight. Not after another rejection. Not at midnight when you're both tired and defensive.
 
@@ -59,13 +59,13 @@ Pick a time when you're both calm. Say something true and specific. Not "we neve
 
 The goal isn't to fix it right then. The goal is to agree that it matters and that you're both willing to try.
 
-### The Vulnerability Part Is Not Optional
+### Do I have to be vulnerable about this?
 
 If your bedroom is dead, one or both of you is scared. Scared of being rejected. Scared of not being enough. Scared of wanting something your partner doesn't want.
 
 You have to say it anyway. Not all of it. Not perfectly. Just enough that the other person knows you're trying. Sex is vulnerable. Talking about not having sex is more vulnerable. But there's no path back that doesn't go through discomfort.
 
-### Give It Time, But Not Forever
+### How long should I wait for things to change?
 
 Rebuilding takes longer than you want it to. You're not going to have one conversation and fix six months of distance. You're going to have ten conversations. Some will go badly. You'll try things that don't work. That's normal.
 

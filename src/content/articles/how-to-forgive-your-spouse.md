@@ -23,13 +23,13 @@ publishedDate: 2025-01-15
 cluster: reconnection
 ---
 
-## The Real Reason You Can't Forgive Yet
+## Why can't I forgive my spouse yet?
 
 You already know you're supposed to forgive your spouse. Everyone keeps saying forgiveness is for you, not for them. That holding onto anger is like drinking poison and expecting the other person to die. You've heard it all. And maybe you even believe it. But you're still angry. Still replaying what they said or did. Still bracing every time they walk into the room.
 
 Here's what nobody says. Forgiveness doesn't start with deciding to forgive. It starts with admitting that you're not ready yet and that's okay. Most advice on forgiveness skips right past the part where you're hurt and pissed off and goes straight to the noble letting go. That's backwards. You can't let go of something you haven't fully picked up and looked at first.
 
-### You Can't Forgive Someone Who Doesn't Get It
+### Can I forgive someone who doesn't understand what they did?
 
 This is the part that makes people uncomfortable, but it's true. Forgiveness is a lot easier when the other person actually understands what they did. Not a defensive apology. Not "I'm sorry you feel that way." An actual reckoning with the fact that they hurt you and it was their fault.
 
@@ -39,7 +39,7 @@ That doesn't mean the relationship is doomed. It means the work isn't done. They
 
 > Forgiveness isn't weakness. It's what happens when someone earns back your trust and you decide to let them try.
 
-### Stop Trying to Forgive Too Fast
+### Am I trying to forgive too fast?
 
 Most people try to forgive too quickly because they think that's what good partners do. Or because they're scared that staying angry makes them the problem now. So they say "it's fine" when it's not fine. They go back to normal routines while still feeling the same betrayal underneath. That's not forgiveness. That's avoidance. And it always comes back up later, usually during an unrelated argument about the dishes.
 
@@ -47,7 +47,7 @@ Real forgiveness takes longer than you think it should. Especially if what happe
 
 Give yourself more time than feels reasonable. The people who successfully forgive their spouse aren't the ones who did it fastest. They're the ones who let it take as long as it actually took.
 
-### Forgiving Doesn't Mean Trusting Again Immediately
+### Does forgiving mean I have to trust them again right away?
 
 Forgiveness and trust are not the same thing. You can forgive someone for what they did and still need them to prove they've changed before you trust them again. That's not holding a grudge. That's being smart.
 

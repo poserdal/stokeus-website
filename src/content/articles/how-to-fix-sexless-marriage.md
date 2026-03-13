@@ -23,13 +23,13 @@ publishedDate: 2025-01-15
 cluster: intimacy
 ---
 
-## How to Fix a Sexless Marriage When Nothing Else Has Worked
+## How do I fix a sexless marriage when nothing else has worked?
 
 You've read the articles. You know you're supposed to communicate more, schedule date nights, learn each other's love languages. Maybe you've tried some of that. Maybe all of it. And you're still here, searching how to fix a sexless marriage at 11pm, hoping this time the answer will be different.
 
 Here's the truth nobody else is saying. The conventional advice isn't wrong. It's just incomplete. Because a sexless marriage isn't a sex problem. It's a desire problem. And you can't schedule your way into wanting someone.
 
-### Stop treating frequency like the goal
+### Should I focus on how often we have sex?
 
 Most advice tells you to aim for once a week. Put it on the calendar. Treat it like a workout you're not in the mood for but do anyway. That advice assumes the only problem is logistics. It's not.
 
@@ -37,7 +37,7 @@ When sex becomes a checkbox, it gets worse. Because now you're having sex you do
 
 The goal is not more sex. The goal is wanting each other again. Everything you do should move toward that, not toward hitting some arbitrary number.
 
-### Figure out what killed the wanting
+### What killed the wanting in my relationship?
 
 Something happened. Maybe it was slow. Maybe it was a thousand small things. Kids, work stress, weight gain, a fight you never really resolved, a pattern where one of you initiates and the other deflects until you both just stopped trying.
 
@@ -47,7 +47,7 @@ Sit down when you're not tired or pissed off and say it out loud. "I think this 
 
 > You can't manufacture desire on a schedule. But you can remove what's killing it.
 
-### Rebuild the conditions that make desire possible
+### How do I rebuild the conditions for desire?
 
 Desire doesn't show up because you decided it should. It shows up when the environment is right. When you feel seen. When there's tension and playfulness and a little bit of distance. When you're not just coordinating logistics all day.
 
@@ -55,7 +55,7 @@ Start small. Physical touch that isn't a prelude to sex. A hand on the small of 
 
 Flirt like you used to. Not in a trying-too-hard way. Just notice them. Say something specific about what you noticed. Text them something that isn't about dinner or pickups. Reintroduce the version of you that isn't just a co-parent or a roommate.
 
-### Deal with the shame and rejection pattern
+### How do I deal with the shame and rejection pattern?
 
 If one of you has been initiating and getting turned down, there's hurt there. If one of you has been the one saying no, there's guilt. Both of those feelings make this worse.
 
@@ -63,7 +63,7 @@ The person who's been rejected stops trying because it hurts too much. The perso
 
 You have to name that pattern and agree to stop it. The person with lower desire gets to own that it's real without being made to feel broken. The person with higher desire gets to own that the rejection hurt without making it into an attack. Then you both agree to stop keeping score.
 
-### Start over like you mean it
+### How do we start over like we mean it?
 
 Pick one night this week. Not for sex. For rebuilding what used to be there. Go somewhere you went early on. Wear something that makes you feel like the version of yourself you want them to see. Talk about something other than the relationship or the household.
 

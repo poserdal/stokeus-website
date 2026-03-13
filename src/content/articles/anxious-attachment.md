@@ -23,7 +23,7 @@ publishedDate: 2025-03-07
 cluster: intimacy
 ---
 
-## You're Not Too Much. You're Just Wired for Threat.
+## What is anxious attachment?
 
 Most articles about anxious attachment start by explaining where it comes from. Inconsistent caregivers. A nervous system that learned to scan for danger.
 
@@ -33,7 +33,7 @@ Here's what anxious attachment actually is. Your partner says they need space an
 
 You can't think your way out of a threat response. You have to do something different when your brain is telling you to panic.
 
-### What it looks like when it's running the show
+### How do I know if I have anxious attachment?
 
 You already know if you have it. Refreshing the text thread. Reading into tone. Asking if everything's okay when it probably is. Needing reassurance that you're not too much while simultaneously worried you're not enough.
 
@@ -43,7 +43,7 @@ The thing your nervous system wants you to do is often the thing that pushes you
 
 > Anxious attachment isn't about being broken. It's about a nervous system doing what it was trained to do when love felt conditional.
 
-### Reading about it doesn't fix it
+### Why doesn't understanding my attachment style fix it?
 
 There's an entire industry built on explaining anxious attachment. What it is. Where it came from. Why you do the things you do. Most of it is validating. None of it tells you what to do at 9pm on a Tuesday when your partner is quiet and your brain is screaming.
 
@@ -51,7 +51,7 @@ Knowing you're anxiously attached doesn't stop the spiral. What stops the spiral
 
 Catch yourself before the third text. Sit with the feeling instead of reaching for reassurance. Let them have space without catastrophizing. Notice the urge and choose the opposite.
 
-### Do one thing this week that has nothing to do with your partner
+### What can I actually do about anxious attachment?
 
 Most advice says build your self worth. Get a life outside the relationship. All true. Vague.
 
@@ -59,7 +59,7 @@ Make plans you don't cancel if they're suddenly free. Text a friend first instea
 
 Anxious attachment lives in the gap between I need you and I don't trust you'll stay. The way out is building proof that you can handle the space. Connection isn't constant contact.
 
-### When the panic hits anyway
+### What do I do when I'm spiraling?
 
 It will. You can do all the right things and still spiral when they're distant. That's fine. The goal isn't to never feel anxious. The goal is to not let the anxiety run the relationship.
 
@@ -67,7 +67,7 @@ When it hits, name it. Out loud if you can. This is my anxious attachment. I'm f
 
 Then do the next smallest right thing. Don't text. Don't ask for reassurance you won't believe anyway. Just breathe and let the feeling exist. Most of the time the panic isn't about what's happening. It's about what happened before.
 
-### Tell your partner what's happening
+### Should I tell my partner about my anxious attachment?
 
 Tell your partner what's happening when it happens. Not as an accusation. As information.
 
@@ -75,7 +75,7 @@ I'm feeling anxious right now and I don't think it's about you. Or I'm spiraling
 
 Most people don't mind giving reassurance when they know that's what's needed. What they mind is the test. Be direct.
 
-### You're allowed to need reassurance
+### Am I too needy?
 
 Secure attachment isn't pretending you don't need anyone. It's needing people without letting that need run your life. Trusting that someone can love you and still need space.
 

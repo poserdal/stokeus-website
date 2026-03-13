@@ -23,19 +23,19 @@ publishedDate: 2025-03-07
 cluster: reconnection
 ---
 
-## Not All Trust Issues Are Trust Issues
+## Are my trust issues actually valid?
 
 Someone lied. Someone hid something. Someone did the thing they said they wouldn't do. You noticed. You reacted. And now you're the one with trust issues.
 
 That framing is convenient for the person who broke the trust. Sometimes what gets labeled as trust issues is actually pattern recognition working exactly as designed.
 
-### First question is whether your gut is right
+### How do I know if my gut is right?
 
 Before you work on trust issues, figure out if the issue is trust or if the issue is that your partner keeps doing untrustworthy things.
 
 If they said they'd be home at nine and showed up at nine fifteen without a text, and you spiral into full panic mode imagining betrayal, that's a trust issue. If they said they'd be home at nine, showed up at midnight, lied about where they were, and this is the fourth time this month, that's not a trust issue. That's a trustworthiness issue.
 
-### If it's old damage, that's on you to work through
+### What if my trust issues come from past relationships?
 
 Maybe your ex cheated. Maybe you learned early that people leave. That history shapes how you show up now. But your current partner didn't cause that damage.
 
@@ -43,7 +43,7 @@ The work is separating past evidence from present reality. When your partner say
 
 > Trust isn't built by demanding proof. It's built by taking small risks and seeing what happens.
 
-### Rebuilding trust requires more than apologies
+### How do you rebuild trust after it's been broken?
 
 If trust got broken in this relationship, rebuilding it isn't about you getting over it faster. It's about them earning it back through consistent action.
 
@@ -51,11 +51,11 @@ Apologies are just words. What rebuilds trust is changed behavior. Text when you
 
 For the person who got hurt, rebuilding trust means letting small moments count. If they show up consistently and you still treat every late text like proof they haven't changed, trust won't rebuild.
 
-### What actually works is consistency
+### What actually rebuilds trust?
 
 Trust doesn't come back in one moment. It comes back in tiny increments over weeks and months until one day you're not checking their location anymore. Not because you decided to stop. Because you don't need to.
 
-### Sometimes trust issues are telling you to leave
+### When should I trust my trust issues?
 
 Not every relationship should survive broken trust. Sometimes trust issues are your intuition working correctly.
 

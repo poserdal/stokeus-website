@@ -23,19 +23,19 @@ publishedDate: 2025-03-07
 cluster: reconnection
 ---
 
-## What It Actually Means When You Think You're Falling Out of Love
+## What does it actually mean when you think you're falling out of love?
 
 The feeling usually shows up quietly. You're not fighting more. You're not angry. You just notice one day that when they walk into the room, nothing happens. No warmth. No anticipation. Just the awareness that another person is now in the kitchen.
 
 Most people panic at this point and assume it's over. That's not always true. Sometimes falling out of love is just what happens when two people stop doing the things that made them fall in love in the first place. The feeling didn't disappear because the relationship is broken. It disappeared because you both stopped feeding it.
 
-### Stop calling it a spark
+### Is the "spark" even real?
 
 The whole concept of a spark is bullshit. It makes love sound like something that either exists or doesn't. What people call a spark is just the result of specific actions repeated over time. Eye contact. Flirting. Trying in bed. When those stop, the feeling stops. It's mechanical.
 
 Here's the test: imagine doing one small thing tonight that your partner would love. Texting them a photo that made you think of them. Asking them a real question about their day. Check how you feel about doing that. If the idea makes you feel nothing, or worse, annoyed, that's information. If it makes you feel even a little warmth, the feeling isn't gone. It's just dormant.
 
-### The drift happens in the margins
+### When did we start drifting apart?
 
 You didn't stop loving your partner because of one big thing. You stopped because of a hundred small things you both stopped doing. You used to text them in the middle of the day just to say something. Now you only text about logistics. You used to touch them when you walked past them. Now you don't.
 
@@ -43,7 +43,7 @@ The advice you'll read everywhere is to spend more quality time together. That's
 
 > Falling out of love isn't always the end. Sometimes it's just what happens when you both stopped trying without realizing it.
 
-### Test whether the door is still open
+### Is the door still open to reconnect?
 
 Most relationship advice assumes both people want to fix it. That's not always the case. Sometimes one person is trying and the other checked out months ago and just hasn't said it yet.
 
@@ -51,13 +51,13 @@ Say it out loud. Not in a fight. Just as a fact. "I feel like we've been driftin
 
 A relationship can survive falling out of love. It can't survive one person refusing to acknowledge it's happening.
 
-### Do the thing you used to do that you stopped doing
+### What did I used to do that I stopped doing?
 
 Think back to the first six months you were together. What did you do then that you don't do now? Not the big things. The tiny things. Grabbing their hand in the car. Staying up talking even when you were tired. Pick one of those things and do it this week.
 
 If doing it feels good, keep going. If it feels forced or met with indifference, you have your answer. The goal isn't to fake it until you make it. The goal is to find out whether the feeling is retrievable or gone.
 
-### When trying stops making sense
+### When does trying stop making sense?
 
 Sometimes the honest thing is to admit that trying harder won't change the outcome. If you've been doing the small things and your partner isn't meeting you there, that's not a failure on your part. If the idea of touching them makes you recoil instead of feel neutral, that's not something you can think your way out of.
 

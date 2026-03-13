@@ -23,13 +23,13 @@ publishedDate: 2025-01-15
 cluster: new-relationships
 ---
 
-## You're Not Maintaining the Old Relationship. You're Building a New One.
+## Why is my relationship so different after having a baby?
 
 Most advice about your relationship after baby assumes you're trying to get back to how things were. Date nights. Regular sex. Those long conversations where you actually finish your sentences. That version of your relationship is gone, and pretending otherwise just makes you feel like you're failing at something impossible.
 
 You're not failing. You're in the middle of the most disruptive transition two people can go through together. Your relationship after baby isn't broken. It's different. And different requires different strategies.
 
-### Stop Waiting for Things to Go Back to Normal
+### Will our relationship ever go back to normal?
 
 The first few months, you're surviving. Everyone tells you it gets better, and it does, but not in the way you think. You don't get your old relationship back. You build a new one that accounts for the fact that you're now raising a human while trying to remember why you liked each other.
 
@@ -37,7 +37,7 @@ Most couples spend a year waiting for normal to return. It doesn't. What returns
 
 The couples who do well stop trying to resurrect the past. They start small and specific with the present.
 
-### Trade Depth for Frequency
+### How do we stay connected when we have no time?
 
 You do not have time for a two hour date night. You might not have time for a twenty minute conversation. What you do have is thirty seconds here and there, and thirty seconds done consistently beats a date night you're too tired to enjoy.
 
@@ -47,7 +47,7 @@ Physical touch works the same way. A hand on their back when you pass in the kit
 
 > You're not failing at the old relationship. You're learning a new one.
 
-### Let Resentment Out Before It Builds a Wall
+### Is it normal to resent my partner after having a baby?
 
 You will resent each other. Not in a marriage-ending way. In a "you got to sleep an extra hour and I didn't" way. That resentment is normal. What's not normal is pretending it isn't there.
 
@@ -55,13 +55,13 @@ Say the small annoying thing when it's still small. "I need you to take the baby
 
 The couples who struggle stay quiet until they explode. The couples who make it bicker about the small stuff and move on.
 
-### Redefine What Counts as Connection
+### What counts as connection when you have a baby?
 
 Intimacy after a baby doesn't look like intimacy before a baby. Connection right now might be taking a walk while the baby sleeps in the stroller. It might be laughing at the same absurd thing your kid just did. It might be one of you handling bedtime so the other can shower alone.
 
 You're looking for moments where you're on the same team, not moments that look like a relationship highlight reel. Lower the bar for what counts. A good day is one where you didn't snap at each other and you smiled at least once.
 
-### Give It More Time Than You Think It Needs
+### How long does it take for relationships to recover after baby?
 
 The first year is hard. What nobody says is that the second year is also hard, just differently. Year one is survival. Year two is realizing this is your life now and figuring out how to build something sustainable.
 

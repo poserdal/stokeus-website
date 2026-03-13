@@ -23,13 +23,13 @@ publishedDate: 2025-03-07
 cluster: reconnection
 ---
 
-## What to Do When Your Marriage Is in Crisis
+## How do I save my marriage?
 
 If you typed "save my marriage" into Google, something just happened. Maybe a fight that felt different. Maybe your partner said they're done. Maybe you just realized how bad it's gotten.
 
 You're not here for a 30-day plan. You need to know what to do in the next 24 hours. Most advice tells you to communicate better or go to therapy. That's not wrong. It's just not where you are right now.
 
-### Stop trying to fix everything tonight
+### Should I have the big conversation tonight?
 
 Your instinct is to have the conversation that solves it all. To say everything you've been holding in. To make them understand.
 
@@ -37,7 +37,7 @@ Don't. When a marriage is in crisis, your nervous system is flooded. So is their
 
 The move is smaller. Text them something true that isn't about the crisis. Something you noticed. Something small. Not an apology that sounds like you're trying to save yourself. Just proof you're still seeing them as a person, not a problem to solve.
 
-### Do the thing you've been avoiding
+### What's the one thing I should do right now?
 
 You already know what it is. The thing your partner has asked for that you keep not doing. Maybe it's going to bed at the same time. Maybe it's putting your phone down during dinner. Maybe it's finally dealing with the mess in the garage they've mentioned six times.
 
@@ -47,7 +47,7 @@ Do one thing this week. Not five. One. Do it without announcing it or asking for
 
 > Most marriages don't end because of one big betrayal. They end because of a thousand small refusals.
 
-### Stop talking about the relationship
+### Is talking about our problems making things worse?
 
 Constant processing makes everything worse. If every conversation is about what's wrong, your partner starts avoiding you just to breathe.
 
@@ -55,7 +55,7 @@ Talk about something else. Anything else. A thing you read. A memory from before
 
 Talking about the relationship nonstop doesn't fix it. It turns the relationship into a problem you're both trying to escape.
 
-### Be honest about whether they're already gone
+### How do I know if my partner has already checked out?
 
 Some people asking how to save their marriage are really asking how to change someone's mind after they've already decided to leave.
 
@@ -63,7 +63,7 @@ You can't. If your partner has checked out, no amount of effort from you will fo
 
 That's not a reason to give up. It's a reason to ask yourself if you're working on repair or denial.
 
-### Get help before you think you need it
+### When should we go to couples therapy?
 
 Most couples wait six years too long to get help. By the time they show up to therapy, they're not trying to fix it. They're trying to prove to themselves they tried everything before they leave.
 

@@ -23,13 +23,13 @@ publishedDate: 2025-01-20
 cluster: new-relationships
 ---
 
-## The Problem With Most New Relationship Advice
+## Why doesn't most new relationship advice work?
 
 You're looking up new relationship advice because you're worried. Worried you'll say the wrong thing, move too fast, or mess up something that feels good right now. So you read an article that tells you to communicate openly, maintain your independence, and watch for red flags. And you feel exactly the same as you did before you clicked.
 
 That's because most advice for new relationships is just anxiety management dressed up as strategy. It's designed to make you feel productive while you overthink a text message. None of it actually helps you build the thing you want.
 
-### Stop Treating It Like Something You Can Break
+### Can I accidentally ruin a new relationship?
 
 New relationships are not fragile. They don't shatter because you texted twice in a row or admitted you actually like this person. What kills them is dishonesty, playing it cool when you're not cool, and pretending to be less interested than you are because some article told you that's how you keep the upper hand.
 
@@ -37,25 +37,25 @@ If you like someone, and they like you back, the relationship can handle honesty
 
 > If you're editing yourself this early, you're not building a relationship. You're auditioning for a role you'll eventually get tired of playing.
 
-### The Real Work Is Showing Up As Yourself
+### How do I be myself in a new relationship?
 
 Everyone says be yourself. Nobody tells you how to actually do that when you're nervous and everything feels high stakes. Here's how. Say what you mean. If you want to see them again, say that. If something bothered you, say that too. Not dramatically. Just in a this is what I'm thinking way.
 
 Most people wait until they're sure the other person feels the same way before they're honest. That's backwards. You find out how someone feels by being honest first and seeing if they meet you there. If they don't, you just saved yourself three months of performing.
 
-### Talk About the Stuff That Actually Matters
+### What should we talk about in a new relationship?
 
 Ask real questions. Not icebreakers. Not what's your favorite movie. Ask what they're scared of. Ask what they're working on that matters. Ask what the last year has been like. The depth of your connection will match the depth of your conversations, and most people are having surface conversations three months in because they think deep stuff comes later. It doesn't. You build it now or you don't build it.
 
 New relationships fail because people mistake comfort for compatibility. They talk about work and weekend plans and never get past it. Six months in they realize they like each other fine but don't actually know each other.
 
-### Let the Relationship Set Its Own Pace
+### How fast should a new relationship move?
 
 There is no right timeline. Some people talk about the future after three weeks. Some take three months to call it official. What matters is whether the pace feels right to both of you, not whether it matches what worked for someone else.
 
 If one of you wants to move faster and the other wants to slow down, say that out loud. That's not a problem. That's just information. The problem is when someone pretends to be fine with a pace that doesn't work for them because they're scared of scaring the other person off. That resentment builds quietly, and by the time it comes out you're already sideways.
 
-### Stop Looking for Proof That It's Going to Fail
+### Why am I looking for red flags in my new relationship?
 
 Red flags are real. Ignoring them is a mistake. But scanning for proof that this person will eventually hurt you is not protection. It's sabotage before something has a chance to become anything.
 

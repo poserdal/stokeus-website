@@ -23,7 +23,7 @@ publishedDate: 2025-03-07
 cluster: reconnection
 ---
 
-## Trust Issues in a Relationship Don't Mean You're Broken
+## Do my trust issues mean I'm broken?
 
 You check their phone when they're in the shower. You overanalyze texts. You rehearse conversations in your head where you catch them in a lie they haven't told yet. Trust issues in a relationship feel like having a lawyer living in your brain, cross-examining every interaction for inconsistencies.
 
@@ -31,7 +31,7 @@ Here's what nobody says: sometimes your gut is right. Sometimes you have trust i
 
 The first thing you need to figure out is which one this is.
 
-### Check for actual evidence before you check yourself
+### Is my partner actually untrustworthy or am I paranoid?
 
 Before you pathologize your suspicion, look at the pattern in front of you. Does your partner follow through on what they say they'll do? Do their words match their actions consistently, or are you constantly making excuses for the gap?
 
@@ -39,7 +39,7 @@ If the answer is that they're mostly solid but you still can't relax, the work i
 
 Trust issues get weaponized. Someone does something shady, you react, and suddenly the conversation is about your trust issues instead of their behavior. If you're constantly anxious and they're constantly defensive, look at what they're defending.
 
-### Stop testing and start stating
+### Should I test my partner or tell them what I need?
 
 The classic move when you have trust issues is to test your partner. You create little traps. You say you're fine when you're not. You leave your phone unlocked to see if they'll look. It's exhausting and it doesn't work.
 
@@ -49,7 +49,7 @@ Here's what works better: state what you need. Not as an accusation. As informat
 
 > Trust isn't rebuilt by someone proving they're perfect. It's rebuilt by someone showing up the same way enough times that your body starts to believe it.
 
-### Do the thing that scares you in small doses
+### How do I start trusting someone again?
 
 Esther Perel talks about trust requiring risk. That sounds nice in theory. In practice, it means you have to let yourself be vulnerable in small, deliberate ways even when your brain is screaming at you not to.
 
@@ -57,7 +57,7 @@ Share something you normally wouldn't. Let them make a plan without micromanagin
 
 The key word is small. You don't go from zero to "I'm ignoring all my instincts." You go from zero to "I'm going to assume good intent on this one specific thing and see what happens." Then you do it again. Eventually your nervous system gets bored of being on high alert.
 
-### Work on trusting yourself, not just them
+### Should I work on trusting myself first?
 
 Most people with trust issues don't actually have a them problem. They have a me problem. As in, "I don't trust myself to pick the right person. I don't trust myself to notice red flags early. I don't trust myself to leave if I need to."
 

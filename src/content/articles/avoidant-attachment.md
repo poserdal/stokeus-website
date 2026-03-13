@@ -23,7 +23,7 @@ publishedDate: 2025-03-07
 cluster: intimacy
 ---
 
-## The Distance Isn't About Not Caring. It's About Caring Too Much.
+## What is avoidant attachment?
 
 Most people think avoidant attachment means you don't want connection. That you're emotionally unavailable by choice. Cold.
 
@@ -33,7 +33,7 @@ You want connection. You just learned a long time ago that needing someone gives
 
 You pull back. You go quiet. And the person who cares about you thinks it's about them. It's not. Intimacy feels like standing on the edge of a cliff.
 
-### The paradox nobody talks about
+### Why do I push away people I care about?
 
 You're most likely to pull away from the people you actually care about. The ones who could matter. Because if they don't matter, you don't have to protect yourself.
 
@@ -43,7 +43,7 @@ It's not that you don't love them. It's that your nervous system treats love lik
 
 > Avoidant attachment isn't about being distant by nature. It's about a nervous system that learned closeness has a cost.
 
-### What happens when they need you
+### Why do I shut down when they need me?
 
 When your partner is struggling, your instinct is to solve it or leave. Fix the problem so the feeling goes away. Or create distance so you don't have to sit in it with them.
 
@@ -51,7 +51,7 @@ Sitting with someone else's emotions without fixing or retreating feels like dro
 
 One thing that works: when they're upset, instead of offering solutions, just say I'm here. You don't have to fix it. You just have to not leave.
 
-### When the instinct to ghost hits
+### What do I do when I want to run?
 
 You know the feeling. Things are going well. Too well. And suddenly you're looking for the exit. Finding reasons they're not right. Noticing things that didn't bother you last week.
 
@@ -61,7 +61,7 @@ When you feel that pull, name it. Say it out loud if you're alone. This is my av
 
 Then do one small thing that's the opposite of what you want to do. Text them instead of going silent. Answer the question instead of deflecting. Stay in the room instead of finding an excuse to leave. You don't have to become a different person. You just have to do one thing your nervous system doesn't want you to do.
 
-### Tell them what's happening
+### Should I tell my partner about my avoidant attachment?
 
 The worst part of being with an avoidant partner isn't the distance. It's not knowing if the distance means something or if it's just how you are.
 
@@ -69,7 +69,7 @@ Tell your partner what's real. Not in some big vulnerability download. Just the 
 
 That one sentence does more than a week of trying to force yourself to be present when you're not ready. It gives them context. It tells them the distance isn't rejection.
 
-### You don't have to fix it overnight
+### Can avoidant attachment be fixed?
 
 The goal isn't to suddenly crave constant closeness. The goal is to stop letting the fear of intimacy run your relationships.
 

@@ -23,13 +23,13 @@ publishedDate: 2026-03-07
 cluster: intimacy
 ---
 
-## Why Intimacy in Marriage Gets Complicated, and What to Do About It
+## Why does intimacy in marriage stop feeling natural?
 
 Intimacy in marriage is supposed to be the easy part. You love each other, you committed to each other, so staying close should be natural. Except a few years in, it stops being natural. It starts feeling like something you have to work at. And then you start wondering if that means something is wrong.
 
 Nothing is wrong. The kind of intimacy that happens effortlessly when you're dating doesn't survive the reality of building a life together. Marriages ask you to be everything to one person: best friend, co-parent, financial partner, roommate, and lover. When the logistics take over, the intimacy gets quiet.
 
-### The real problem is that everything became transactional
+### Has our intimacy become transactional?
 
 You didn't mean for it to happen. But at some point, intimacy stopped being something you shared and started being something you negotiated. Affection became a signal for sex. A nice gesture became a bid for reciprocation. You're still close, but you're not connected. There's a difference.
 
@@ -37,7 +37,7 @@ Transactional intimacy kills desire faster than anything else. When every touch 
 
 > Intimacy isn't a trade. It's what happens when two people stop keeping score and just show up.
 
-### Stop waiting for spontaneity to save you
+### Should intimacy be spontaneous or planned?
 
 Most advice tells you to be more spontaneous. That sounds great until you realize your life doesn't have room for it anymore. You're managing work, maybe kids, a mortgage. Spontaneity is a luxury, and most marriages are running on fumes.
 
@@ -45,7 +45,7 @@ Here's the truth: scheduled intimacy is better than no intimacy. Yes, it feels l
 
 Put it on the calendar. Time to actually talk. Time to sit next to each other without looking at your phones. It's not sexy, but it works. The couples who stay close don't rely on magic. They build structure around the things that matter.
 
-### You need separateness, not just togetherness
+### Do we spend too much time together?
 
 This one trips people up. You think the problem is not enough time together, so you double down on togetherness. You do everything as a couple. You merge your identities so completely that you forget where you end and they begin.
 
@@ -53,7 +53,7 @@ And then the desire disappears. Because desire needs a little distance. A little
 
 This doesn't mean emotional distance. It means maintaining some part of yourself that's just yours. Your own hobbies. Your own friends. Intimacy thrives when two whole people choose each other, not when two half people cling to each other out of need.
 
-### Ask what they actually need right now
+### How do I find out what my partner needs?
 
 Most people in long-term marriages have never asked their partner what they need. Not really. They assume they know. So they keep guessing, and their partner keeps feeling unseen, and the gap widens.
 

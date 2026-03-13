@@ -23,19 +23,19 @@ publishedDate: 2025-01-15
 cluster: intimacy
 ---
 
-## When Lack of Intimacy Becomes the New Normal
+## Why has lack of intimacy become normal in my relationship?
 
 You notice it in small ways first. You stop reaching for each other on the couch. Bedtime becomes about sleep, not connection. Conversations stay surface level because going deeper feels like work. And somewhere along the way, lack of intimacy stopped being a rough patch and became just how things are.
 
 Most advice on this tells you to communicate more. Have the hard conversation. Express your needs. And sure, that matters. But what do you do when you've already had that conversation three times and nothing changed? When you both know there's a problem but knowing hasn't fixed it?
 
-### Stop treating intimacy like it's one thing
+### Is physical intimacy the real problem?
 
 Physical intimacy gets all the attention, but that's not usually where the problem starts. It's the last domino to fall, not the first. What disappears earlier is the stuff that made physical closeness feel natural. The inside jokes. The random texts. The moment when they walk in the door and you're actually happy to see them, not just relieved they're home to help with dinner.
 
 You can't fix physical intimacy by going straight at it. You fix it by rebuilding everything that makes you want to be close in the first place. That means bringing back the tiny moments of connection that don't lead anywhere. A hand on their back when you pass in the kitchen. Asking a real question, not just how their day was. Laughing at something together that isn't a screen.
 
-### Create space, not more closeness
+### Should we spend more time together?
 
 This sounds backwards, but sometimes the problem isn't distance. It's that you're too merged. You've become the same person. Same complaints about work. Same weekend routine. Same everything. And intimacy needs a little bit of mystery to survive.
 
@@ -43,19 +43,19 @@ Do something by yourself that makes you feel like you again. Not to punish them 
 
 > Intimacy doesn't die from conflict. It dies from becoming the same person who happens to live in the same house.
 
-### Touch without the agenda
+### How do I start touching my partner again?
 
 If it's been a while, physical touch starts to feel loaded. Every hand on a shoulder feels like a promise you're not sure you can keep. So you stop touching altogether because it's less awkward than starting something you might not finish.
 
 Break that. Touch your partner with zero expectation. Hug them for five seconds in the morning. Put your hand on their leg while you're watching something. Kiss them when you leave for work, and mean it. Do it enough times that it stops feeling like a negotiation and starts feeling normal again. Physical intimacy comes back when touch stops being a big deal.
 
-### Stop waiting for them to go first
+### Should I wait for my partner to initiate?
 
 Here's the trap. You're waiting for them to initiate because if they wanted it, they'd show it. They're waiting for you because they're scared you'll reject them. So you both wait, and nothing happens, and the gap gets wider.
 
 Someone has to go first. It might as well be you. Not in a grand gesture way. Just in a small, consistent, this-is-who-I-am-now way. Send the text. Suggest the date night. Reach for their hand. Do it without keeping score. Do it because you decided this matters, not because you're sure it'll work.
 
-### Let it be awkward for a minute
+### What if reconnecting feels awkward?
 
 If you've been disconnected for months, reconnecting is going to feel weird at first. You're going to try something that used to work and it won't land the same way. That's fine. Intimacy doesn't come back in one perfect conversation or one great night. It comes back in a dozen awkward attempts that slowly start to feel less awkward.
 

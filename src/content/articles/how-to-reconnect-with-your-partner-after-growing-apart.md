@@ -23,13 +23,13 @@ publishedDate: 2025-01-15
 cluster: reconnection
 ---
 
-## Why Couples Grow Apart, and How to Actually Close the Gap
+## Why do couples grow apart, and how do you close the gap?
 
 Growing apart doesn't happen from a single moment. It happens from a thousand tiny moments of choosing convenience over connection. You stop asking real questions. You start narrating your days instead of sharing them. You're physically together but mentally somewhere else. And one day you look at the person across the table and realize you feel more like roommates than partners.
 
 The good news is that distance in a relationship is almost always reversible. The hard part isn't knowing that. It's knowing *where to start*.
 
-### Start smaller than you think you need to
+### Should I start small or plan something big?
 
 The instinct when you feel disconnected is to go big. Plan a trip. Have the big conversation. Schedule a date night. But grand gestures rarely rebuild connection because they skip the foundation. **Connection is rebuilt in the small, repeated moments.** A real question instead of "how was your day," a specific compliment that shows you've been paying attention, a moment where you choose them over your phone.
 
@@ -37,19 +37,19 @@ The couples who reconnect fastest aren't the ones who took the most dramatic act
 
 > Knowing someone's favorite color and knowing what makes them feel truly loved are two completely different things. Start with the second one.
 
-### Figure out how they actually feel loved right now
+### How does my partner actually feel loved right now?
 
 Here's something most couples don't talk about: the way your partner needs to feel loved probably isn't the same as it was three years ago. Life changes people. Stress changes people. Having kids, losing a parent, career shifts. All of it rewires what someone needs from their relationship. What used to land might not land anymore, and it's not because something is broken. It's because people evolve.
 
 Ask them directly. Not "are you happy?" but "what's something I could do this week that would make you feel genuinely cared for?" Most people have an answer. Most people are never asked.
 
-### Stop waiting for them to go first
+### Should I wait for my partner to go first?
 
 One of the most common patterns in couples who've grown apart is the standoff. Both people feel the distance. Both people want it to close. Neither person moves first because it feels like vulnerability, and vulnerability after distance feels enormous. **Someone has to go first.** It might as well be you.
 
 This doesn't mean having a big emotional conversation if that's not your style. It means doing one specific thing this week that shows your partner they're on your mind. Something chosen, not obligatory. That's the move that breaks the standoff.
 
-### Make it a habit, not a project
+### How do I make reconnection a habit instead of a one-time project?
 
 Reconnecting isn't a one-time event. The couples who stay connected aren't the ones who had the best date night. They're the ones who kept showing up in small ways, consistently, even when life got busy. That consistency is what makes a relationship feel like home instead of just cohabitation.
 

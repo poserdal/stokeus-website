@@ -23,13 +23,13 @@ publishedDate: 2025-03-07
 cluster: long-term
 ---
 
-## The Real Problem Isn't Communication
+## Why can't we communicate in our marriage?
 
 Most people searching for help with communication problems in marriage have already tried active listening. They've tried I statements. They've tried staying calm. And it didn't work. Not because the advice is wrong, but because it assumes the problem is skill.
 
 It's usually not. The problem is that one or both of you doesn't feel safe enough to say the real thing. So you say the safer thing, or nothing at all, and then wonder why talking never fixes anything.
 
-### You're not bad at communication. You're scared of what happens when you're good at it.
+### Am I bad at communication or scared of being honest?
 
 Most communication problems aren't about not knowing how to talk. They're about knowing exactly what happens when you do. You bring something up and your partner gets defensive. Or dismissive. Or turns it around on you. So you stop.
 
@@ -37,7 +37,7 @@ That's not a communication problem. That's a safety problem. No amount of better
 
 The fix isn't learning to talk better. It's creating a relationship where saying the hard thing won't blow up in your face.
 
-### The thing you're fighting about isn't the thing you're actually fighting about
+### What are we actually fighting about?
 
 If you're having the same fight over and over, it's because neither of you is saying what it's actually about. You're fighting about dishes. The real fight is whether you feel like a partner or a parent. You're fighting about sex. The real fight is about feeling wanted.
 
@@ -45,13 +45,13 @@ Figure out the fight under the fight. Then say that instead. Not in the middle o
 
 > Most couples aren't bad at talking. They're just really good at talking around the thing that actually matters.
 
-### Stop waiting for the right time to bring it up
+### When is the right time to bring up a problem?
 
 There is no right time. You'll keep waiting for a moment when you're both in a good mood and nothing else is going on. That moment doesn't exist. Tuesday always shows up.
 
 Bring it up anyway. Not when you're pissed. Just say it. "Hey, can we talk about something that's been on my mind?" Most of the time the anticipation is worse than the conversation. And if it's not, if bringing it up calmly still turns into a fight, that's the information you need.
 
-### Fix your side of the conversation first
+### How do I fix my side of the conversation first?
 
 You can't control whether your partner gets defensive. You can control whether you're saying something in a way that makes defensiveness inevitable. Start with "you always" or "you never" and the other person stops listening and starts defending.
 
@@ -59,7 +59,7 @@ Say what you feel. Not what they did wrong. "I feel disconnected from you" lands
 
 If they still get defensive when you say it cleanly, that's its own problem. But at least you know you did your part.
 
-### Know when the problem isn't fixable by talking more
+### When won't talking more fix the problem?
 
 Some communication problems are just symptoms of a relationship that doesn't work anymore. If you've tried saying the real thing and your partner won't engage, or every conversation turns into a fight no matter how you phrase it, talking more won't fix that.
 

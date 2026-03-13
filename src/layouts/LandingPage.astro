@@ -16,11 +16,56 @@ interface Props {
       title: string;
       slug: string;
     }>;
+    publishedDate?: Date;
   };
+  faqItems?: Array<{
+    question: string;
+    answer: string;
+  }>;
 }
 
-const { frontmatter } = Astro.props;
+const { frontmatter, faqItems } = Astro.props;
 const APP_STORE_URL = 'https://apps.apple.com/us/app/stoke-for-couples/id6753605202';
+const canonicalUrl = `https://stokeus.com/${Astro.params.slug}`;
+const publishedDateISO = frontmatter.publishedDate ? frontmatter.publishedDate.toISOString().split('T')[0] : undefined;
+
+// Build Article schema
+const articleSchema = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": frontmatter.title.replace(' · Stoke', ''),
+  "description": frontmatter.metaDescription,
+  "author": {
+    "@type": "Organization",
+    "name": "Stoke",
+    "url": "https://stokeus.com"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stoke",
+    "url": "https://stokeus.com"
+  },
+  "mainEntityOfPage": canonicalUrl,
+  ...(publishedDateISO && { "datePublished": publishedDateISO }),
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [".article h2", ".article p:first-of-type"]
+  }
+};
+
+// Build FAQ schema if faqItems provided
+const faqSchema = faqItems && faqItems.length > 0 ? {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqItems.map(item => ({
+    "@type": "Question",
+    "name": item.question,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": item.answer
+    }
+  }))
+} : null;
 ---
 
 <!DOCTYPE html>
@@ -30,8 +75,25 @@ const APP_STORE_URL = 'https://apps.apple.com/us/app/stoke-for-couples/id6753605
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{frontmatter.title}</title>
 <meta name="description" content={frontmatter.metaDescription}>
-<link rel="canonical" href={`https://stokeus.com/${Astro.params.slug}`} />
+<link rel="canonical" href={canonicalUrl} />
 <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+<!-- Open Graph -->
+<meta property="og:title" content={frontmatter.title} />
+<meta property="og:description" content={frontmatter.metaDescription} />
+<meta property="og:type" content="article" />
+<meta property="og:url" content={canonicalUrl} />
+<meta property="og:site_name" content="Stoke" />
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content={frontmatter.title} />
+<meta name="twitter:description" content={frontmatter.metaDescription} />
+
+<!-- JSON-LD Structured Data -->
+<script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
+{faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />}
+
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">
 <style>

@@ -23,19 +23,19 @@ publishedDate: 2025-01-16
 cluster: reconnection
 ---
 
-## What to Do When Your Marriage Feels Like It's Breaking
+## What should I do when my marriage feels like it's breaking?
 
 If you're searching how to save your marriage, you're scared. Maybe you've been fighting more. Maybe you've stopped fighting, which feels worse. Most advice starts with "both partners need to be willing." Not helpful when you're the only one trying.
 
 The question isn't forcing them to care. It's whether you can stop making things worse.
 
-### Stop trying to have the big conversation
+### Should I try to have the big conversation?
 
 When a marriage is in crisis, the instinct is to talk it all out. But if your partner isn't ready, forcing it makes things worse.
 
 **The move that works is smaller.** Stop narrating what's wrong and start noticing what's still right. To yourself. One thing per day. In crisis mode, your brain fixates on bad things. That filter makes you act like someone who's given up, which makes your partner treat you the same way. Interrupt it.
 
-### Do one small thing they'd actually notice
+### What's one small thing my partner would actually notice?
 
 Most people go too big or too vague. Neither works.
 
@@ -43,7 +43,7 @@ What works is one specific thing this week your partner would notice. Not what y
 
 > The couples who turn things around aren't the ones who made the biggest promises. They're the ones who kept the smallest ones.
 
-### Stop defending yourself in every argument
+### Why should I stop defending myself in arguments?
 
 Every conversation feels like an accusation. They say you never listen. You say you always listen. Both right. Both missing the point.
 
@@ -51,13 +51,13 @@ Defending yourself makes you technically correct and emotionally unreachable. Yo
 
 Not "I hear you, but I've been trying." Just "I hear you. That sounds lonely." Then stop.
 
-### Be honest about what you're willing to change
+### What am I actually willing to change?
 
 Saving a marriage requires change. Most people lie to themselves about how much they'll actually change.
 
 Will you go to therapy? Stop the thing they've asked you to stop? Spend less time on your phone? Not forever. Just three months. If the answer is no, you need to know. You can't save a marriage offering to change in ways you won't.
 
-### Know when you might be too late
+### How do I know if it's too late to save my marriage?
 
 Sometimes one person has already decided it's over and just hasn't said it yet.
 

@@ -23,19 +23,19 @@ publishedDate: 2026-01-22
 cluster: reconnection
 ---
 
-## When Your Partner Doesn't Listen, the Problem Might Not Be What You Think
+## Why doesn't my partner listen to me?
 
 You bring something up. They nod. A week later you're having the exact same conversation and they act surprised. When your partner doesn't listen, it makes you feel invisible.
 
 The usual advice is I-statements, eliminate distractions, pick the right time. But what happens when you've already done that and they still aren't hearing you? Most relationship content stops there. This doesn't.
 
-### Stop assuming they're ignoring you on purpose
+### Is my partner ignoring me on purpose?
 
 There's a difference between won't listen and can't listen. Won't listen is dismissive. Can't listen is overwhelm. Maybe their brain cannot hold one more thing. Maybe they heard you but don't know what to do.
 
 Before you assume malice, check for capacity. If your partner is drowning in stress, their ability to process shrinks to nothing. That doesn't make it okay. But it changes how you approach it.
 
-### Say the thing you're actually upset about
+### Am I saying what I'm actually upset about?
 
 Most people bury the real issue. You say, "I feel like we don't connect anymore," when what you mean is, "I told you twice I needed help and you didn't do anything." You say, "I wish you'd be more present," when what you mean is, "You looked at your phone the entire time I was talking and it made me feel like shit."
 
@@ -43,19 +43,19 @@ Your partner cannot respond to a problem they don't understand. If you're upset 
 
 > If your partner keeps missing what you're saying, it's probably because you're not saying it.
 
-### Make them repeat it back in their own words
+### How do I know if they actually heard me?
 
 Don't ask, "Did you hear me?" They'll say yes every time. Instead, say, "Can you tell me what you heard me say?" In their own words. Their version.
 
 If they can't, they weren't listening. You'll also learn how they interpreted what you said. Half the time they heard something different. This cuts through more misunderstanding than a month of I-statements.
 
-### Pick one thing and stay on it
+### Should I bring up multiple issues at once?
 
 You know what makes someone stop listening? When you turn one issue into six. You start with the trash and suddenly you're bringing up 2019. That's an ambush.
 
 Pick the one thing that matters most. Say it clearly. Stay on it. No bonus grievances. Address the other stuff later.
 
-### Stop talking and start changing your behavior
+### Should I stop trying to make them listen?
 
 Sometimes the most effective thing is stop trying to make them listen. Not as punishment. As strategy. If you've said something three times and nothing changed, a fourth won't work.
 

@@ -23,13 +23,13 @@ publishedDate: 2026-03-07
 cluster: love-languages
 ---
 
-## The Problem With Most Advice on Making Your Partner Feel Special
+## Why don't my gestures make my partner feel special?
 
 Googling how to make your partner feel special gets you the same recycled list. Send them a text. Plan a surprise. Leave a note. Cook their favorite meal. All fine ideas. None of them wrong. But if you're here, you've tried some version of that and it didn't land.
 
 Maybe it felt forced. Maybe they appreciated the gesture but it didn't shift anything. Maybe you're tired of checking boxes on someone else's to-do list.
 
-### Grand gestures are easier than consistent attention
+### Are grand gestures enough to make my partner feel special?
 
 You can plan an anniversary surprise or book a weekend trip and feel like you nailed it. Those things matter. But they also let you off the hook for the other 363 days. Your partner doesn't feel special because you remembered them once in a big way. They feel special because you notice them in small ways all the time.
 
@@ -37,7 +37,7 @@ Small, consistent noticing is harder. It requires being present instead of runni
 
 > Making someone feel special is not about doing more. It's about paying closer attention to what already matters to them.
 
-### Stop performing affection and start giving it
+### Why does my affection feel performative?
 
 A lot of gestures feel forced because they are forced. You read an article that says compliment your partner more, so you start complimenting them. It doesn't feel natural. It feels like homework. And your partner can tell.
 
@@ -45,7 +45,7 @@ Affection from obligation doesn't make anyone feel special. It makes them feel l
 
 The difference is intent. One is performative. The other is genuine. Your partner knows which one they're getting.
 
-### Notice what they care about, not what you would care about
+### How do I know what actually makes my partner feel special?
 
 Most people try to make their partner feel special by doing what would make them feel special. That's backwards. If you feel loved when someone plans a surprise, you plan surprises. If you feel appreciated when someone helps with tasks, you do their laundry. Then you're confused when it doesn't land.
 
@@ -53,13 +53,13 @@ Pay attention to what lights your partner up. Not what you think should. Not wha
 
 Once you know that, you stop guessing. You stop trying things that sound good on paper and start doing the one or two things that actually matter to them.
 
-### The smallest gestures hit hardest when they're specific
+### Why do specific gestures matter more than big ones?
 
 Generic affection feels nice. Specific affection feels like proof someone actually knows you. Telling your partner "I love you" is good. Telling them "I love how you always check in when you know I've had a long week" is better. One is a blanket statement. The other is evidence you're paying attention.
 
 Specificity separates a gesture from a formula. It's the difference between "you look nice" and "that color makes your eyes look insane." One could apply to anyone. The other could only apply to them.
 
-### Show up when it's inconvenient
+### When does showing up matter most?
 
 This separates people who want to make their partner feel special from people who actually do it. Anyone can be thoughtful when they're well-rested and have time to plan. The moments that matter are when you're tired, distracted, or annoyed and you choose to show up anyway.
 

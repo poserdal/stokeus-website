@@ -23,7 +23,7 @@ publishedDate: 2026-03-07
 cluster: reconnection
 ---
 
-## Communication in Relationships: What Actually Happens When You Try to Talk
+## Why doesn't communication in relationships work the way it should?
 
 You've read the articles. Active listening. I-statements. Don't interrupt. All of it makes sense when you're reading it on your phone at lunch.
 
@@ -31,7 +31,7 @@ Then you try to have the actual conversation and it goes sideways in thirty seco
 
 Most relationship advice treats communication like a skill you can practice alone. It's not. It's a thing two people have to figure out together.
 
-### Stop waiting for the perfect words
+### Should I wait until I know exactly what to say?
 
 The biggest mistake is waiting until you know exactly what to say. You rehearse it in your head. Try to predict how they'll react. Want to get it right so it doesn't turn into a fight.
 
@@ -41,7 +41,7 @@ The goal is not to say the perfect thing. The goal is to start saying true thing
 
 > You don't need the perfect words. You need the courage to say the imperfect ones out loud before it's too late.
 
-### Say what you're actually feeling, not the polite version
+### Should I soften what I say to avoid conflict?
 
 When you soften everything, your partner has no idea what you're really upset about. You say you're fine when you're not. You drop hints hoping they'll figure it out.
 
@@ -51,7 +51,7 @@ If you're not a priority anymore, say that. If you miss the version of them that
 
 The polite version protects you now. The honest version gives you a shot at fixing what's broken.
 
-### Ask one real question and wait for the real answer
+### What's one question I can ask tonight?
 
 Most couples think they communicate all the time because they talk all day. What's for dinner. Did you see that text. That's logistics. Not connection.
 
@@ -59,7 +59,7 @@ Try this tonight. Ask your partner one real question. Not "how was your day" whi
 
 Then shut up and listen. Don't fix it. Don't defend yourself. Just listen like you're trying to learn something about a person you care about.
 
-### The conversation is the easy part
+### Why doesn't talking fix anything?
 
 You can have the best conversation in the world. Both leave feeling understood. And then nothing changes.
 

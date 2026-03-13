@@ -10,10 +10,58 @@ export async function getStaticPaths() {
   }));
 }
 
+// Parse markdown to extract FAQ items (headings + first paragraph after each)
+function extractFaqItems(markdown: string): Array<{ question: string; answer: string }> {
+  const faqItems: Array<{ question: string; answer: string }> = [];
+  const lines = markdown.split('\n');
+
+  let currentQuestion: string | null = null;
+  let collectingAnswer = false;
+  let answerLines: string[] = [];
+
+  for (const line of lines) {
+    const headingMatch = line.match(/^#{2,3}\s+(.+)$/);
+
+    if (headingMatch) {
+      // Save previous Q&A if exists
+      if (currentQuestion && answerLines.length > 0) {
+        const answer = answerLines.join(' ').trim();
+        if (answer) {
+          faqItems.push({ question: currentQuestion, answer });
+        }
+      }
+
+      currentQuestion = headingMatch[1].trim();
+      collectingAnswer = true;
+      answerLines = [];
+    } else if (collectingAnswer && line.trim()) {
+      // Skip blockquotes for FAQ answers
+      if (line.trim().startsWith('>')) continue;
+
+      // Collect first paragraph only
+      answerLines.push(line.trim());
+    } else if (collectingAnswer && !line.trim() && answerLines.length > 0) {
+      // Empty line after content = end of first paragraph
+      collectingAnswer = false;
+    }
+  }
+
+  // Don't forget the last Q&A
+  if (currentQuestion && answerLines.length > 0) {
+    const answer = answerLines.join(' ').trim();
+    if (answer) {
+      faqItems.push({ question: currentQuestion, answer });
+    }
+  }
+
+  return faqItems;
+}
+
 const { article } = Astro.props;
 const { Content } = await article.render();
+const faqItems = extractFaqItems(article.body);
 ---
 
-<LandingPage frontmatter={article.data}>
+<LandingPage frontmatter={article.data} faqItems={faqItems}>
   <Content />
 </LandingPage>

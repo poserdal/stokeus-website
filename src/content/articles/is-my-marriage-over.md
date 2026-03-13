@@ -23,19 +23,19 @@ publishedDate: 2025-01-15
 cluster: reconnection
 ---
 
-## The Worst Part About Asking If Your Marriage Is Over
+## How do I know if my marriage is over?
 
 The worst part is not knowing. You wake up next to someone and feel nothing, or worse, feel dread. Then two days later you have a good conversation over coffee and think maybe you're overreacting. The question is my marriage is over sits in the back of your mind like a low hum you can't turn off.
 
 Most marriage advice will give you a checklist. Seven signs it's over. Ten red flags. A quiz that spits out a percentage. That's garbage. Real relationships don't fit in boxes. The truth is messier: you probably won't get a clear answer from an article. But you can get clarity on what you're actually dealing with.
 
-### Stop looking for permission to leave
+### Am I looking for permission to leave?
 
 If you're searching for signs your marriage is over, part of you is hoping someone will tell you it's okay to go. That the internet will hand you a list that matches your situation so you can stop feeling guilty about wanting out. That's not weakness. That's human. Leaving feels like detonating your own life, and we want someone else to tell us we have to.
 
 But outsourcing that decision doesn't work. You'll find articles that say contempt means it's over. You'll find others that say couples recover from contempt all the time. The checklist won't save you because every marriage is different and every hard season looks different.
 
-### The question underneath the question
+### What am I really asking when I ask if my marriage is over?
 
 When someone asks is my marriage over, what they're really asking is: am I allowed to feel this way? Is it normal to be this unhappy? Have I tried hard enough? Will I regret leaving?
 
@@ -43,7 +43,7 @@ Those are better questions. The first one assumes there's an objective answer. T
 
 > If you're asking whether your marriage is over, the marriage isn't over. It's the trying to pretend everything is fine that kills it.
 
-### What actually matters
+### What are the real signs my marriage might be over?
 
 Forget the checklists. Here's what separates a marriage that's struggling from one that's done. Do you still respect each other? Not love. Not passion. Respect. Can you hear your partner's perspective without contempt? If the answer is no, and it's been no for a long time, that's the thing to pay attention to.
 
@@ -51,7 +51,7 @@ Second question: are both of you willing to work on it? Not just you. Both. A ma
 
 Third: is there abuse? Emotional, physical, financial, any of it. If yes, you're asking the wrong question. The question isn't whether the marriage is over. It's how do I get out safely.
 
-### What to do when you still don't know
+### What do I do if I still can't tell?
 
 If you're still stuck, that's okay. Not knowing doesn't mean you're broken. It means the situation is legitimately hard.
 
@@ -61,7 +61,7 @@ That takes the pressure off deciding right now while you're exhausted. It also g
 
 And if your partner won't agree to that window? That's also your answer.
 
-### The thing nobody wants to hear
+### Can every marriage be saved?
 
 Sometimes marriages end not because anyone did anything wrong, but because two people grew in different directions. That's not failure. That's life. The idea that every marriage can be saved if you just try hard enough is bullshit. Some can't. Some shouldn't be.
 

@@ -23,7 +23,7 @@ publishedDate: 2026-03-07
 cluster: reconnection
 ---
 
-## Stonewalling Is a Two-Person Problem
+## Why does stonewalling happen in relationships?
 
 Most articles about stonewalling in relationships blame the person who shuts down. They call it toxic. One of the four horsemen. A predictor of divorce.
 
@@ -31,7 +31,7 @@ All of that is true. But it's not the whole story.
 
 Stonewalling is what happens when two incompatible coping strategies collide. One person needs space when overwhelmed. The other needs resolution when anxious. Neither is wrong. But if you don't understand what's driving the other person, you make it worse.
 
-### The person who shuts down isn't trying to punish you
+### Is my partner stonewalling me on purpose?
 
 When someone stonewalls, it looks like they don't care. They go silent. They walk away. They stare at their phone while you're mid-sentence.
 
@@ -43,7 +43,7 @@ The solution isn't "care more." It's learning to recognize when they're flooded 
 
 > When someone goes quiet, they're not always withholding. Sometimes they're drowning.
 
-### The person who keeps talking isn't trying to attack you
+### Why do I keep pushing when they shut down?
 
 If you're the one being stonewalled, silence feels like punishment. You're trying to fix the problem and they're acting like you don't exist. So you follow them. Ask again. Raise your voice.
 
@@ -51,7 +51,7 @@ You're not being controlling. You're panicking.
 
 Because for you, unresolved conflict feels like the relationship is ending. Your brain says if we don't fix this right now, we never will. So you push. And the more you push, the harder they shut down. You're both trying to feel safe in ways that make the other person feel less safe.
 
-### The difference between needing space and stonewalling
+### How do I know if it's stonewalling or just needing space?
 
 Here's the test. When they say they need space, do they come back?
 
@@ -61,7 +61,7 @@ The difference is intention. Are they taking space to regulate so they can re-en
 
 If you're not sure, ask later when things are calm. "When you need space, how long do you usually need? Will you tell me when you're ready to come back?"
 
-### What to do when you're the one who shuts down
+### What should I do if I'm the one who stonewalls?
 
 If you're someone who goes quiet when things get heated, your job is to name it before it becomes a wall.
 
@@ -69,7 +69,7 @@ Say this out loud: "I'm getting overwhelmed. I need fifteen minutes. I'll come b
 
 That's not stonewalling. That's communicating a boundary. The key is the last part. You have to actually come back. If you say you need time and then hope they forget about it, you're stonewalling.
 
-### What to do when you're being stonewalled
+### What should I do when my partner stonewalls me?
 
 If your partner shuts down and won't re-engage, pushing harder will not work.
 
@@ -81,7 +81,7 @@ And if they don't come back after two days? Say this: "We don't have to solve th
 
 If they still won't commit to a time, that's not conflict avoidance. That's a choice to not participate in the relationship.
 
-### This only works if both of you try
+### Can I fix stonewalling alone?
 
 You can't fix stonewalling alone. It's what happens when two people are both trying to protect themselves and accidentally hurting each other instead.
 
