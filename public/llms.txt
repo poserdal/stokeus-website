@@ -1,0 +1,47 @@
+# Stoke
+
+> Stoke is a relationship improvement app that helps couples reconnect through research-backed micro-actions, based on Gottman Institute research.
+
+## About Stoke
+
+Stoke delivers one small, personalized action per week to help couples rebuild connection. The app is built on decades of relationship research, including Gottman Institute findings on what makes relationships thrive.
+
+## Core Topics
+
+- **Gottman Research**: Four horsemen, bids for connection, love maps, magic 5:1 ratio, repair attempts
+- **Relationship Reconnection**: Growing apart, feeling disconnected, roommate syndrome
+- **Communication**: Soft startup, defensiveness, criticism vs complaint, stonewalling
+- **Intimacy & Connection**: Fondness and admiration, shared meaning, relationship rituals
+- **Conflict Resolution**: Perpetual vs solvable problems, flooding, taking breaks
+
+## Key Articles
+
+### Gottman Concepts
+- [Bids for Connection](/bids-for-connection): Why missed bids destroy relationships and how to catch more of them
+- [The 5:1 Ratio](/magic-ratio-relationships): The magic number that predicts whether relationships survive
+- [Four Horsemen](/four-horsemen-relationships): The four patterns that predict divorce (and their antidotes)
+- [Love Maps](/love-maps-relationship): How well do you actually know your partner's inner world?
+- [Repair Attempts](/repair-attempts-relationships): The secret weapon of couples who make it
+
+### Communication
+- [Soft Startup](/soft-startup-relationships): Why how you start a conversation determines how it ends
+- [Criticism vs Complaint](/criticism-vs-complaint): The difference between addressing behavior and attacking character
+- [Defensiveness](/defensiveness-in-relationships): Why you get defensive and how to stop
+- [Stonewalling](/stonewalling-in-relationships): When your partner shuts down completely
+
+### Connection & Intimacy
+- [Turning Toward](/turning-toward-partner): The 86% rule for relationship survival
+- [Small Things Often](/small-things-often-relationship): Why small positives beat grand gestures
+- [Fondness & Admiration](/fondness-admiration-relationships): Do you actually still like your partner?
+- [Shared Meaning](/shared-meaning-relationships): Why great relationships need a story
+
+### Conflict
+- [Perpetual Problems](/perpetual-problems-relationships): Why you keep having the same fight (69% of conflicts are perpetual)
+- [Flooding](/flooding-relationships): Why you shut down during arguments
+- [Dreams Within Conflict](/dreams-within-conflict): The hidden needs inside your arguments
+
+## Contact
+
+Website: https://stokeus.com
+App: Available on iOS App Store
+Instagram: https://www.instagram.com/stoke.for.couples/

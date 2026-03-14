@@ -38,19 +38,32 @@ const articleSchema = {
   "author": {
     "@type": "Organization",
     "name": "Stoke",
-    "url": "https://stokeus.com"
+    "url": "https://stokeus.com",
+    "sameAs": ["https://www.instagram.com/stoke.for.couples/"]
   },
   "publisher": {
     "@type": "Organization",
     "name": "Stoke",
-    "url": "https://stokeus.com"
+    "url": "https://stokeus.com",
+    "sameAs": ["https://www.instagram.com/stoke.for.couples/"]
   },
   "mainEntityOfPage": canonicalUrl,
   ...(publishedDateISO && { "datePublished": publishedDateISO }),
+  ...(publishedDateISO && { "dateModified": publishedDateISO }),
   "speakable": {
     "@type": "SpeakableSpecification",
     "cssSelector": [".article h2", ".article p:first-of-type"]
   }
+};
+
+// Organization schema (site-wide)
+const organizationSchema = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Stoke",
+  "url": "https://stokeus.com",
+  "description": "Relationship improvement app using research-backed micro-actions based on Gottman Institute research",
+  "sameAs": ["https://www.instagram.com/stoke.for.couples/"]
 };
 
 // Build FAQ schema if faqItems provided
@@ -93,6 +106,7 @@ const faqSchema = faqItems && faqItems.length > 0 ? {
 <!-- JSON-LD Structured Data -->
 <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
 {faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />}
+<script type="application/ld+json" set:html={JSON.stringify(organizationSchema)} />
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,700;0,900;1,700&family=DM+Sans:ital,wght@0,300;0,400;0,500;1,300&display=swap" rel="stylesheet">
